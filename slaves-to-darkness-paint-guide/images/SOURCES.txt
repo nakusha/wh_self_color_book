@@ -1,0 +1,65 @@
+Image sources for local reference use
+====================================
+
+These images were downloaded from Warhammer Community and remain copyright Games Workshop Limited.
+They are included here as local reference images for this private painting-guide workspace.
+For public distribution, publication, or commercial use, replace them with your own photography,
+licensed images, or images used with explicit permission.
+
+Generated reference images
+--------------------------
+
+- dark-gunmetal-final-reference-sheet.png
+  AI-generated local concept reference based on user-provided Chaos Knight, Chariot, and Chaos Warrior images, recolored to the guide's finalized dark gunmetal / aged bronze Slaves to Darkness palette.
+
+Correction
+----------
+
+The original Chaos Lord chapter image used a mounted/Karkadrak-style reference. It has been replaced with a foot Chaos Lord art reference from the official Warhammer Community Faction Focus page so the chapter better matches the Slaves to Darkness Spearhead context.
+
+Warhammer Community, "Warhammer Age of Sigmar Faction Focus: Slaves to Darkness"
+https://www.warhammer-community.com/en-gb/articles/iWdPA2hI/warhammer-age-of-sigmar-faction-focus-slaves-to-darkness/
+
+- chaos-lord-reference-01.jpg
+- unit-chaos-lord-01.jpg
+  https://assets.warhammer-community.com/articles/d798933e-6e97-4e6a-b62b-853b7fa4b39c/kpgnwy4hz6splolj.jpg
+
+- spearhead-overview-01.jpg
+  https://assets.warhammer-community.com/articles/d798933e-6e97-4e6a-b62b-853b7fa4b39c/vqafkshaymwppwad.jpg
+
+Sources
+-------
+
+Warhammer Community, "Sunday Preview - The Slaves to Darkness Pour Forth Across the Mortal Realms"
+https://www.warhammer-community.com/en-gb/articles/2nbJQPqC/sunday-preview-the-slaves-to-darkness-pour-forth-across-the-mortal-realms/
+
+- vanguard-slaves-to-darkness-01.jpg
+  https://assets.warhammer-community.com/articles/7b5eb91c-365b-4440-ac82-fd6182f9affc/9jkuxcogkpuhsk8e.jpg
+
+- chaos-lord-reference-01.jpg
+  https://assets.warhammer-community.com/articles/7b5eb91c-365b-4440-ac82-fd6182f9affc/mdclelov4j89dqcb.jpg
+
+- chaos-knights-reference-01.jpg
+  https://assets.warhammer-community.com/articles/7b5eb91c-365b-4440-ac82-fd6182f9affc/yfiea8mafg61s8c0.jpg
+
+- exalted-hero-reference-01.jpg
+  https://assets.warhammer-community.com/articles/7b5eb91c-365b-4440-ac82-fd6182f9affc/9yru7hs2tgyzshbt.jpg
+
+- chaos-warriors-sunday-01.jpg
+  https://assets.warhammer-community.com/articles/7b5eb91c-365b-4440-ac82-fd6182f9affc/ekg5obvzenei9x4v.jpg
+
+Warhammer Community, "Chaos Warriors and Exalted Heroes of Chaos Dress To Impress in Their New Kits"
+https://www.warhammer-community.com/en-gb/articles/i5t62g2p/chaos-warriors-and-exalted-heroes-of-chaos-dress-to-impress-in-their-new-kits/
+
+- chaos-warriors-reference-01.jpg
+  https://assets.warhammer-community.com/articles/521051bd-912f-4c3c-a81e-451bd57ee65e/q0jhjbwk0y0kbdev.jpg
+
+- slaves-battle-scene-01.jpg
+  https://assets.warhammer-community.com/articles/521051bd-912f-4c3c-a81e-451bd57ee65e/vvnljiwxhlpmk2hu.jpg
+
+Duplicated working images
+-------------------------
+
+Several chapter-specific image filenames are duplicated from the reference images above so that
+the Markdown files can use stable, descriptive local paths. Replace these duplicated files with
+chapter-specific photography later if this guide is prepared for publication.

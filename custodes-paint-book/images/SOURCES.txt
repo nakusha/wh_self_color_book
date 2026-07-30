@@ -1,0 +1,41 @@
+Adeptus Custodes Paint Book - Image Sources
+
+These images are saved as local painting references for the markdown guide.
+Copyright for Warhammer, Warhammer 40,000, Adeptus Custodes, associated imagery, logos, names, and miniatures belongs to Games Workshop Limited.
+For public distribution or commercial use, replace these files with original photos, licensed images, or images used with explicit permission.
+
+Generated reference images:
+
+- royal-navy-custodian-reference-sheet.png
+  AI-generated local concept reference based on the book's Royal Navy palette.
+
+- royal-navy-custodes-units-reference-sheet.png
+  AI-generated local concept reference based on user-provided infantry, jetbike, and grav-tank images, recolored to the book's Royal Navy palette.
+
+Official source pages:
+
+- Warhammer 40,000 - Adeptus Custodes faction page
+  https://warhammer40000.com/games/faction/adeptus-custodes/
+  Used for Shield Captain, Custodian Guard, and Allarus Custodian reference images.
+
+- Warhammer 40,000 - Combat Patrol page
+  https://warhammer40000.com/combat-patrol/
+  Used for Adeptus Custodes Combat Patrol box, Blade Champion, and faction reference images.
+
+- Warhammer Community - The Big Summer Preview: New Plastic Custodians Incoming
+  https://www.warhammer-community.com/en-gb/articles/syfufbyf/the-big-summer-preview-new-plastic-custodians-incoming/
+  Used for Custodes Support Battle Group, Telemon Heavy Dreadnought, jetbike, weapon, and grav-vehicle references.
+
+Downloaded source files:
+
+- https://warhammer40000.com/games/wp-content/uploads/sites/2/2019/07/01-Custodian_Warden_Shield_Captains-128-490x550.png
+- https://warhammer40000.com/games/wp-content/uploads/sites/2/2019/07/01-Custodian_Warden_Guard-128-490x550.png
+- https://warhammer40000.com/games/wp-content/uploads/sites/2/2019/07/01-Allarus_Custodian-128-490x550.png
+- https://warhammer40000.com/wp-content/uploads/2023/06/yKOZJHGDv1XLU2UW.png
+- https://warhammer40000.com/wp-content/uploads/2023/06/g889aorcvo6vS3WG.jpeg
+- https://warhammer40000.com/wp-content/uploads/2023/06/ju99LsRNTw4m2GJY.png
+- https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/box-oxsf7mapg6.jpg
+- https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image1-wcqohqc2wu.jpg
+- https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image2-vtr1ucsyac.jpg
+- https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image3-c120s9gwji.jpg
+- https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/image5-x83bbcwiq1.jpg
