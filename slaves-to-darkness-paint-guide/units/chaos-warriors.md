@@ -1,10 +1,12 @@
 # Chaos Warriors
 
+![Chaos Warriors Reference Sheet](../images/unit-chaos-warriors-reference-sheet.svg)
+
 ![Chaos Warriors](../images/unit-chaos-warriors-01.jpg)
 
 ## Introduction
 
-Chaos Warriors는 Spearhead의 기준 유닛입니다. 검은 갑옷, 청동 trim, steel weapon, dark shield가 모두 반복되므로 이 유닛을 안정적으로 칠하면 박스 전체의 완성도가 올라갑니다.
+Chaos Warriors는 Spearhead의 기준 유닛입니다. 밝은 강철 갑옷, 청동 trim, weapon steel, 짙은 적색 천이 모두 반복되므로 이 유닛을 안정적으로 칠하면 박스 전체의 완성도가 올라갑니다.
 
 ## Painting goals
 
@@ -31,22 +33,22 @@ Intermediate. 모델 수가 많고 trim 반복이 많아 집중력이 중요합�
 
 | 영역 | Vallejo Game Color |
 |---|---|
-| Armor | Black, Charcoal, Neutral Grey |
+| Armor | Gunmetal, Chainmail Silver, Silver |
 | Bronze Trim | Tinny Tin, Brassy Brass |
-| Steel | Dark Gunmetal, Chainmail |
-| Shield | Black, Charcoal, Neutral Grey |
+| Steel | Gunmetal, Chainmail Silver |
+| Shield | Gunmetal, Chainmail Silver, Silver |
 | Leather | Charred Brown, Leather Brown |
-| Base | Charcoal, Neutral Grey |
+| Base | Earth, Khaki |
 
 ## Alternative paints
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Armor | Black, Charcoal | Abaddon Black, Corvus Black | Black, Rubber Black | Matt Black | Doom Death Black |
+| Armor | Gunmetal, Chainmail Silver | Leadbelcher, Ironbreaker | Gun Metal, Steel | Gun Metal, Plate Mail Metal | Sir Coates Silver |
 | Bronze | Tinny Tin, Brassy Brass | Warplock Bronze, Balthasar Gold | Old Bronze, Bronze | Weapon Bronze | Spartan Bronze |
-| Steel | Dark Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
+| Steel | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
 | Leather | Charred Brown | Rhinox Hide | Leather Brown Dark | Oak Brown | Cuirass Leather |
-| Base Grey | Neutral Grey | Dawnstone | Neutral Grey | Uniform Grey | Carcharodon Grey |
+| Base Earth | Earth | Mournfang Brown | Earth | Leather Brown | Fur Cloak |
 
 ## Tools
 
@@ -79,12 +81,12 @@ Intermediate. 모델 수가 많고 trim 반복이 많아 집중력이 중요합�
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 깊은 시작 |
-| Basecoat | Black, Tinny Tin, Dark Gunmetal | 재질 구분 |
-| Layer | Charcoal, Brassy Brass | 분대 가독성 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 재질 구분 |
+| Layer | Chainmail Silver, Brassy Brass | 분대 가독성 |
 | Shade | Black Wash, Sepia Wash | 홈 |
-| Highlight | Neutral Grey, Chainmail | 형태 |
-| Edge Highlight | Neutral Grey + Bonewhite very small | 얼굴/방패 상단 |
-| Optional Drybrush | Neutral Grey on base | 빠른 베이스 |
+| Highlight | Silver, Bonewhite | 형태 |
+| Edge Highlight | Silver + Off White very small | 헬멧/방패 상단 |
+| Optional Drybrush | Khaki on base | 빠른 베이스 |
 | Optional Weathering | Chipping Color lower shield | 전투감 |
 | Brush-only method | 공정별 batch | 권장 |
 | Airbrush notes | 필요 없음, 빠른 분대에는 가능 | 선택 |

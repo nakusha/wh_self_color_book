@@ -32,12 +32,12 @@ Beginner. 구매 목록은 단순해야 합니다. 색이 많을수록 초보자
 | 우선순위 | Vallejo Game Color | 용도 |
 |---|---|---|
 | 필수 | Black | 갑옷 |
-| 필수 | Charcoal | 갑옷 중간톤 |
-| 필수 | Neutral Grey | 갑옷 edge |
+| 필수 | Chainmail Silver | 갑옷 중간톤 |
+| 필수 | Silver | 갑옷 edge |
 | 필수 | Tinny Tin | bronze base |
 | 필수 | Brassy Brass | bronze layer |
-| 필수 | Dark Gunmetal | steel base |
-| 필수 | Chainmail | steel layer |
+| 필수 | Gunmetal | 갑옷과 steel base |
+| 필수 | Chainmail Silver | steel layer |
 | 필수 | Black Wash | 갑옷/steel shade |
 | 필수 | Sepia Wash | bronze/leather shade |
 | 필수 | Matt Varnish | 최종 보호 |
@@ -49,9 +49,9 @@ Beginner. 구매 목록은 단순해야 합니다. 색이 많을수록 초보자
 
 | 키트 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Armor Kit | Black, Charcoal, Neutral Grey | Abaddon Black, Corvus Black, Eshin Grey | Black, Rubber Black, Dark Grey | Matt Black, Deep Grey, Uniform Grey | Doom Death Black, Dungeon Stone |
+| Armor Kit | Gunmetal, Chainmail Silver, Silver | Leadbelcher, Ironbreaker, Runefang Steel | Gun Metal, Steel, Bright Silver | Gun Metal, Plate Mail Metal, Shining Silver | Sir Coates Silver, Rivet Silver |
 | Bronze Kit | Tinny Tin, Brassy Brass | Warplock Bronze, Balthasar Gold | Old Bronze, Bronze | Weapon Bronze, True Copper | Spartan Bronze, Dragon's Gold |
-| Steel Kit | Dark Gunmetal, Chainmail | Leadbelcher, Ironbreaker | Gun Metal, Natural Steel | Gun Metal, Shining Silver | Sir Coates Silver |
+| Wash Kit | Game Wash Black, Sepia Wash | Nuln Oil, Agrax Earthshade | Black Wash, Streaking Grime | Dark Tone, Strong Tone | Oblivion Black Wash, Battle Grime |
 | Natural Kit | Charred Brown, Bonewhite | Rhinox Hide, Ushabti Bone | Leather Brown, Ivory | Oak Brown, Skeleton Bone | Cuirass Leather, Dragon Fang |
 
 ## Tools
@@ -85,12 +85,12 @@ Beginner. 구매 목록은 단순해야 합니다. 색이 많을수록 초보자
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 시작 |
-| Basecoat | Black, Tinny Tin, Dark Gunmetal | 핵심 재질 |
-| Layer | Charcoal, Brassy Brass, Chainmail | 형태 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 핵심 재질 |
+| Layer | Chainmail Silver, Brassy Brass, Gory Red | 형태 |
 | Shade | Black Wash, Sepia Wash | 깊이 |
-| Highlight | Neutral Grey, Silver | 읽힘 |
-| Edge Highlight | Neutral Grey + Bonewhite | 선택 극점 |
-| Optional Drybrush | Neutral Grey | 베이스 |
+| Highlight | Silver, Bonewhite | 읽힘 |
+| Edge Highlight | Silver + Off White | 선택 극점 |
+| Optional Drybrush | Khaki | 베이스 |
 | Optional Weathering | Charred Brown | 하단 칩 |
 | Brush-only method | 기본 권장 | 가장 경제적 |
 | Airbrush notes | 나중에 추가 | 필수 아님 |

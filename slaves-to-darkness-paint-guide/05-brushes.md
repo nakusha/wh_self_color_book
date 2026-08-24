@@ -32,8 +32,8 @@ Beginner to Intermediate. 브러시 제어는 손재주보다 도료 농도, 손
 
 | 작업 | Paint | 농도 |
 |---|---|---|
-| Armor base | Black, Charcoal | 얇게 2회 |
-| Armor edge | Neutral Grey | 약간 진하게, 브러시에는 적게 |
+| Armor base | Gunmetal | 얇게 2회 |
+| Armor edge | Silver | 약간 진하게, 브러시에는 적게 |
 | Bronze trim | Tinny Tin, Brassy Brass | 금속 입자가 고르게 보일 정도 |
 | Fur drybrush | Khaki, Bonewhite | 거의 마른 상태 |
 | Wash control | Black Wash, Sepia Wash | 필요한 경우 medium 추가 |
@@ -42,9 +42,9 @@ Beginner to Intermediate. 브러시 제어는 손재주보다 도료 농도, 손
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Edge Grey | Neutral Grey | Eshin Grey | Dark Grey | Uniform Grey | Carcharodon Grey |
+| Steel Edge | Silver | Runefang Steel | Bright Silver | Shining Silver | Rivet Silver |
 | Bronze | Brassy Brass | Balthasar Gold | Bronze | True Copper | Dragon's Gold |
-| Steel | Chainmail | Ironbreaker | Natural Steel | Shining Silver | Sir Coates Silver |
+| Steel | Chainmail Silver | Ironbreaker | Natural Steel | Shining Silver | Sir Coates Silver |
 | Bone Drybrush | Bonewhite | Ushabti Bone | Ivory | Skeleton Bone | Dragon Fang |
 
 ## Tools
@@ -67,10 +67,10 @@ Beginner to Intermediate. 브러시 제어는 손재주보다 도료 농도, 손
 
 ## Step-by-step workflow
 
-1. 2호 또는 1호로 Black/Charcoal basecoat를 얇게 올립니다.
+1. 2호 또는 1호로 `Gunmetal` basecoat를 얇게 올립니다.
 2. 1호 끝으로 trim 주변을 정리합니다.
 3. 금속 trim은 마커 또는 브러시로 초벌 후, 0호로 경계 정리를 합니다.
-4. Neutral Grey edge highlight는 브러시 끝보다 옆면을 사용해 긋습니다.
+4. `Silver` edge highlight는 브러시 끝보다 옆면을 사용해 긋습니다.
 5. 털과 베이스는 드라이브러시로 질감 방향을 살립니다.
 6. 작업 후 브러시 비누로 세척하고 끝을 모아 말립니다.
 
@@ -79,11 +79,11 @@ Beginner to Intermediate. 브러시 제어는 손재주보다 도료 농도, 손
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | 없음 | 브러시 단계 전 준비 |
-| Basecoat | Black, Charcoal | 큰 면 매끈하게 |
-| Layer | Charcoal + Neutral Grey | 면 밝힘 |
+| Basecoat | Gunmetal | 큰 면 매끈하게 |
+| Layer | Chainmail Silver | 면 밝힘 |
 | Shade | Black Wash | 홈 제어 |
-| Highlight | Neutral Grey | 모서리 |
-| Edge Highlight | Neutral Grey + Bonewhite | 극소 엣지 |
+| Highlight | Silver | 모서리 |
+| Edge Highlight | Silver + Off White | 극소 엣지 |
 | Optional Drybrush | Khaki, Bonewhite | 털과 베이스 |
 | Optional Weathering | Charred Brown | 칩과 먼지 |
 | Brush-only method | 2호 base, 1호 layer, 0호 detail | 표준 |
@@ -110,7 +110,7 @@ Skin, faces, large cloth, fur는 마커보다 브러시가 우월합니다. 이 
 
 💡 Pro Tip
 
-엣지 하이라이트가 두꺼워졌다면 당황하지 말고 Black 또는 Charcoal로 선을 다시 좁히세요. 지우는 것이 아니라 모양을 재조각하는 과정입니다.
+엣지 하이라이트가 두꺼워졌다면 당황하지 말고 `Gunmetal`로 선을 다시 좁히세요. 지우는 것이 아니라 모양을 재조각하는 과정입니다.
 
 💡 Pro Tip
 
@@ -134,7 +134,7 @@ Skin, faces, large cloth, fur는 마커보다 브러시가 우월합니다. 이 
 
 ## Summary
 
-브러시는 이 프로젝트의 최종 품질을 결정합니다. 마커로 시간을 줄이고, 브러시로 형태와 깊이를 완성하세요. 다음 장 [Primer](06-primer.md)에서는 검은 갑옷에 가장 중요한 시작층을 다룹니다.
+브러시는 이 프로젝트의 최종 품질을 결정합니다. 마커로 시간을 줄이고, 브러시로 형태와 깊이를 완성하세요. 다음 장 [Primer](06-primer.md)에서는 밝은 강철 갑옷의 basecoat를 겸하는 시작층을 다룹니다.
 
 ## Checklist
 

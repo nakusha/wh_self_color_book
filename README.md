@@ -7,8 +7,8 @@ Warhammer 미니어처를 스스로 칠하기 위한 한국어 페인팅 가이�
 | 종류 | 예시 이미지 | 내용 |
 |---|---|---|
 | [Adeptus Custodes Paint Book](custodes-paint-book/README.md) | ![Royal Navy Custodes](custodes-paint-book/images/royal-navy-custodes-units-reference-sheet.png) | Royal Navy 계열의 깊은 남색 갑옷과 고급스러운 금장을 중심으로 Custodes 전군의 통일감을 잡는 가이드입니다. |
-| [Slaves to Darkness Spearhead Paint Guide](slaves-to-darkness-paint-guide/README.md) | ![Dark Gunmetal Slaves to Darkness](slaves-to-darkness-paint-guide/images/dark-gunmetal-final-reference-sheet.png) | 검은 철갑, 차가운 강철, 낡은 청동, 거친 가죽을 조합해 Spearhead 박스를 완성하는 가이드입니다. |
-| [World Eaters Classic Blood](world-eaters-classic-blood/basic-paints.md) | ![Classic Blood World Eaters](world-eaters-classic-blood/images/classic-blood-reference-sheet.png) | 어두운 피색 갑옷, aged brass trim, blackened steel을 중심으로 World Eaters를 칠하기 위한 기본 도료와 레시피입니다. |
+| [Slaves to Darkness Spearhead Paint Guide](slaves-to-darkness-paint-guide/README.md) | ![Pale Steel Slaves to Darkness](slaves-to-darkness-paint-guide/images/scheme-a-pale-steel-reference-sheet.svg) | 밝게 닦인 강철 판금(A안)과 검게 눌린 철갑(B안) 두 스킴으로 Spearhead 박스를 완성하는 가이드입니다. |
+| [World Eaters Classic Blood](world-eaters-classic-blood/README.md) | ![Classic Blood World Eaters](world-eaters-classic-blood/images/classic-blood-reference-sheet.png) | 어두운 피색 갑옷, aged brass trim, blackened steel을 중심으로 World Eaters를 칠하기 위한 기본 도료와 레시피입니다. |
 
 ## How to Use
 
@@ -29,18 +29,20 @@ Warhammer 미니어처를 스스로 칠하기 위한 한국어 페인팅 가이�
 
 ### Slaves to Darkness
 
-![Slaves to Darkness Spearhead Cover](slaves-to-darkness-paint-guide/images/slaves-spearhead-cover-01.jpg)
+![A안 Pale Steel Reference Sheet](slaves-to-darkness-paint-guide/images/scheme-a-pale-steel-reference-sheet.svg)
 
 - 시작 문서: [slaves-to-darkness-paint-guide/README.md](slaves-to-darkness-paint-guide/README.md)
 - 주요 구성: 색 컨셉, 준비 도구, 도료 대체표, 공통 부위 레시피, Spearhead 유닛별 순서
-- 추천 대상: Age of Sigmar Slaves to Darkness Spearhead 박스를 차분한 dark gunmetal 스킴으로 완성하려는 사용자
+- 스킴: [A안 Pale Steel](slaves-to-darkness-paint-guide/images/scheme-a-pale-steel-reference-sheet.svg) / [B안 Dark Gunmetal](slaves-to-darkness-paint-guide/images/scheme-b-dark-gunmetal-reference-sheet.svg)
+- 추천 대상: Slaves to Darkness Spearhead 박스를 밝은 강철(A안) 또는 검은 철갑(B안)으로 완성하려는 사용자
 
 ### World Eaters
 
 ![Classic Blood Reference Sheet](world-eaters-classic-blood/images/classic-blood-reference-sheet.png)
 
-- 시작 문서: [world-eaters-classic-blood/basic-paints.md](world-eaters-classic-blood/basic-paints.md)
+- 시작 문서: [world-eaters-classic-blood/README.md](world-eaters-classic-blood/README.md)
 - 주요 구성: 프라이머 선택, 필수 도료, 최소 구매 세트, red armor, brass trim, steel, bone, flesh 레시피
+- 차량 파트: [Mephiston Red 프라이밍](world-eaters-classic-blood/mephiston-red-priming.md), [Chaos Rhino](world-eaters-classic-blood/units/chaos-rhino.md), [Forgefiend](world-eaters-classic-blood/units/forgefiend.md)
 - 추천 대상: 밝은 빨강보다 무겁고 어두운 Classic Blood World Eaters 스킴을 원하는 사용자
 
 ## Image Notice

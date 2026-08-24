@@ -1,5 +1,7 @@
 # Chaos Knights
 
+![Chaos Knights Reference Sheet](../images/unit-chaos-knights-reference-sheet.svg)
+
 ![Chaos Knights](../images/unit-chaos-knights-01.jpg)
 
 ## Introduction
@@ -31,21 +33,21 @@ Advanced. 큰 면과 작은 장식이 함께 있어 순서 관리가 중요합�
 
 | 영역 | Vallejo Game Color |
 |---|---|
-| Rider Armor | Black, Charcoal, Neutral Grey |
-| Horse Barding | Black, Charcoal |
+| Rider Armor | Gunmetal, Chainmail Silver, Silver |
+| Horse Barding | Gunmetal, Chainmail Silver |
 | Bronze Trim | Tinny Tin, Brassy Brass |
-| Lance/Weapon | Dark Gunmetal, Silver, Charred Brown |
+| Lance/Weapon | Gunmetal, Silver, Charred Brown |
 | Leather | Charred Brown, Leather Brown |
-| Base | Charcoal, Neutral Grey, Earth |
+| Base | Earth, Khaki, Bonewhite |
 
 ## Alternative paints
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Black Armor | Black | Abaddon Black | Black | Matt Black | Doom Death Black |
-| Near Black | Charcoal | Corvus Black | Rubber Black | Deep Grey | Dungeon Stone |
+| Pale Steel Armor | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver |
+| Steel Layer | Chainmail Silver | Ironbreaker | Steel | Plate Mail Metal | Fenrisian Grey Steel |
 | Bronze | Tinny Tin | Warplock Bronze | Old Bronze | Weapon Bronze | Spartan Bronze |
-| Steel | Dark Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
+| Steel | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
 | Leather | Leather Brown | Mournfang Brown | Saddle Brown | Leather Brown | Fur Cloak |
 
 ## Tools
@@ -67,7 +69,7 @@ Advanced. 큰 면과 작은 장식이 함께 있어 순서 관리가 중요합�
 ## Step-by-step workflow
 
 1. 말 barding과 기수 armor에 [Armor Recipe](../recipes/armor.md)를 적용합니다.
-2. 큰 면에는 Charcoal을 상단 45도 방향으로 더 넓게 올립니다.
+2. 큰 면에는 Chainmail Silver를 상단 45도 방향으로 더 넓게 올립니다.
 3. trim은 [Bronze Recipe](../recipes/bronze.md)로 처리하되 마커 초벌을 활용합니다.
 4. lance와 weapon은 [Weapon Recipe](../recipes/weapon.md)를 사용하고 끝을 밝게 만듭니다.
 5. straps와 saddle은 [Leather Recipe](../recipes/leather.md)로 낮은 채도 유지합니다.
@@ -78,15 +80,15 @@ Advanced. 큰 면과 작은 장식이 함께 있어 순서 관리가 중요합�
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 큰 면 깊이 |
-| Basecoat | Black, Tinny Tin, Dark Gunmetal | 재질 구분 |
-| Layer | Charcoal, Brassy Brass | 큰 면 볼륨 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 재질 구분 |
+| Layer | Chainmail Silver, Brassy Brass | 큰 면 볼륨 |
 | Shade | Black Wash, Sepia Wash | 홈 |
-| Highlight | Neutral Grey, Silver | 돌출부 |
-| Edge Highlight | Neutral Grey + Bonewhite, Silver | lance와 rider 시선점 |
-| Optional Drybrush | Neutral Grey on base | 빠른 지면 |
+| Highlight | Silver, Bonewhite | 돌출부 |
+| Edge Highlight | Silver + Off White | lance와 rider 시선점 |
+| Optional Drybrush | Khaki on base | 빠른 지면 |
 | Optional Weathering | Earth pigment around hooves | 무게감 |
 | Brush-only method | 큰 면 레이어와 edge | 가능 |
-| Airbrush notes | barding에 Charcoal 45도 권장 | 시간 절약 |
+| Airbrush notes | barding에 묽은 Black을 아래 45도 권장 | 시간 절약 |
 | Recommended varnish | Matt armor, Satin metal | 질감 분리 |
 
 ## Marker Tips
@@ -125,7 +127,7 @@ lance 끝, shield symbol, rider helmet을 삼각형 시선점으로 잡으면 �
 
 | 문제 | 원인 | 해결 |
 |---|---|---|
-| Knight가 단조롭다 | 큰 면 명암 부족 | Charcoal layer와 Neutral Grey edge 추가 |
+| Knight가 단조롭다 | 큰 면 명암 부족 | Chainmail Silver layer와 판 경계 Black Wash 추가 |
 | rider가 묻힘 | 말 갑옷이 너무 밝음 | 말 쪽 Black glaze |
 | lance가 약함 | 끝 하이라이트 부족 | Silver edge와 작은 scratch |
 | trim이 번짐 | 마커 과다 | 건조 후 Black 경계 정리 |

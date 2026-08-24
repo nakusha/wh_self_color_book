@@ -12,7 +12,7 @@
 |---|---|
 | 초보자 의문 해결 | 어떤 순서로 칠할지 명확히 |
 | 마커 사용 판단 | 빠른 곳과 피할 곳 구분 |
-| 색 문제 해결 | 검은 갑옷과 금속 톤 조정 |
+| 색 문제 해결 | 강철 갑옷과 금속 톤 조정 |
 | 완성 가능성 유지 | 과도한 display 목표 방지 |
 
 ## Difficulty
@@ -31,7 +31,7 @@ Beginner. 대부분의 질문은 기준 모델과 테스트 카드로 해결됩�
 
 | 질문 상황 | Paint |
 |---|---|
-| 갑옷이 너무 어두움 | Neutral Grey |
+| 갑옷이 너무 어두움 | Chainmail Silver |
 | 갑옷이 너무 밝음 | Black glaze |
 | bronze가 탁함 | Brassy Brass |
 | steel이 죽음 | Silver |
@@ -42,7 +42,7 @@ Beginner. 대부분의 질문은 기준 모델과 테스트 카드로 해결됩�
 
 | 해결 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Edge Grey | Neutral Grey | Eshin Grey | Dark Grey | Uniform Grey | Carcharodon Grey |
+| Steel Edge | Silver | Runefang Steel | Bright Silver | Shining Silver | Rivet Silver |
 | Black Glaze | Black | Abaddon Black | Black | Matt Black | Doom Death Black |
 | Bronze Restore | Brassy Brass | Balthasar Gold | Bronze | True Copper | Dragon's Gold |
 | Steel Point | Silver | Stormhost Silver | Silver | Shining Silver | Sir Coates Silver |
@@ -76,12 +76,12 @@ Beginner. 대부분의 질문은 기준 모델과 테스트 카드로 해결됩�
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 기준 유지 |
-| Basecoat | Black, Charcoal | 갑옷 복구 |
-| Layer | Brassy Brass, Dark Gunmetal | 금속 복구 |
+| Basecoat | Gunmetal | 갑옷 복구 |
+| Layer | Brassy Brass, Chainmail Silver | 금속 복구 |
 | Shade | Black Wash, Sepia Wash | 과한 밝기 낮춤 |
-| Highlight | Neutral Grey, Silver | 가독성 |
+| Highlight | Silver, Bonewhite | 가독성 |
 | Edge Highlight | Bonewhite mix | 극점 |
-| Optional Drybrush | Neutral Grey | 베이스/털 |
+| Optional Drybrush | Khaki, Charcoal | 베이스/털 |
 | Optional Weathering | Chipping Color | 작은 흠 |
 | Brush-only method | 가장 안전한 수정 방식 | 제어력 |
 | Airbrush notes | 큰 면 색 조정에만 | 고급 |
@@ -107,7 +107,7 @@ Armor trim 초벌, bronze trim, steel rivets, chains, shield symbols, small horn
 
 💡 Pro Tip
 
-검은 갑옷이 너무 어둡다고 느껴지면 전체를 밝히지 말고 헬멧, 어깨, 방패 상단 edge만 추가하세요.
+강철 갑옷이 밋밋하게 느껴지면 `Silver`를 넓히지 말고, 판 경계에 `Game Wash Black`을 한 번 더 넣으세요.
 
 💡 Pro Tip
 
@@ -140,6 +140,6 @@ Spearhead는 작은 게임 포맷이라 각 모델이 자주 손에 잡힙니다
 - [ ] 질문을 관련 recipe와 연결했다.
 - [ ] 한 모델에서 먼저 테스트했다.
 - [ ] 마커를 필수 도구로 생각하지 않는다.
-- [ ] 검은 갑옷은 edge 중심으로 수정한다.
+- [ ] 강철 갑옷은 판 경계의 어둠부터 수정한다.
 - [ ] 수정 결과를 기록했다.
 

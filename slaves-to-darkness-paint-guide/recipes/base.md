@@ -4,14 +4,14 @@
 
 ## Introduction
 
-Base는 모델을 전장에 고정합니다. Slaves to Darkness Spearhead에는 차갑고 어두운 황무지 베이스가 잘 어울립니다. 너무 밝은 베이스는 검은 갑옷보다 먼저 보이고, 너무 어두운 베이스는 모델 하단을 삼켜버립니다. 이 장은 ash, rock, dead earth가 섞인 낮은 채도 베이스를 기준으로 합니다.
+Base는 모델을 전장에 고정합니다. **Pale Steel** 스킴에는 회색 베이스가 어울리지 않습니다. 은색 갑옷과 밝기가 겹쳐 모델이 바닥에 녹아 붙어 보이기 때문입니다. 이 장은 **마른 갈색 흙**을 기준으로 합니다. 갈색은 은색과 색상·밝기가 모두 달라서 모델을 가장 확실하게 띄워 줍니다.
 
 ## Painting goals
 
 | 목표 | 설명 |
 |---|---|
-| 어두운 전장 | Chaos 군대 분위기 유지 |
-| 모델과 분리 | 회색 하이라이트로 발과 베이스 구분 |
+| 마른 갈색 흙 | 은색 갑옷과 밝기·색상 분리 |
+| 모델과 분리 | 갈색 계열로 발과 베이스 구분 |
 | 빠른 반복 | 드라이브러시 중심 |
 | 제한적 웨더링 | 발 주변 먼지와 흙 |
 | 마커 제한 활용 | 베이스 림과 작은 파편 |
@@ -33,10 +33,10 @@ Beginner. 드라이브러시와 wash만으로 충분히 좋은 결과를 만들 
 | Stage | Vallejo Game Color | Purpose |
 |---|---|---|
 | Primer | Black Primer | 깊은 바닥 |
-| Basecoat | Charcoal | 어두운 돌과 재 |
-| Layer | Neutral Grey | 질감 밝힘 |
+| Basecoat | Earth | 마른 갈색 흙 |
+| Layer | Khaki | 질감 밝힘 |
 | Shade | Black Wash | 틈 |
-| Highlight | Stonewall Grey or Bonewhite mix | 돌 모서리 |
+| Highlight | Bonewhite mix | 돌 모서리 |
 | Edge Highlight | Bonewhite 소량 | 높은 자갈 |
 | Optional Weathering | Earth pigment, Charred Brown | 먼지와 흙 |
 | Recommended varnish | Matt Varnish | 건조한 표면 |
@@ -45,8 +45,8 @@ Beginner. 드라이브러시와 wash만으로 충분히 좋은 결과를 만들 
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Dark Ground | Charcoal | Eshin Grey | Rubber Black | Deep Grey | Dungeon Stone |
-| Mid Grey | Neutral Grey | Dawnstone | Neutral Grey | Uniform Grey | Carcharodon Grey |
+| Dark Ground | Earth | Mournfang Brown | Earth | Leather Brown | Fur Cloak |
+| Mid Earth | Khaki | Karak Stone | Light Earth | Skeleton Bone | Dragon Fang |
 | Light Stone | Stonewall Grey | Administratum Grey | Light Grey | Ash Grey | Wizard Grey |
 | Earth | Earth | Dryad Bark | Dark Earth | Oak Brown | Wasteland Brown |
 | Pigment | Earth Pigment | 없음 | Dust Pigment | 없음 | 없음 |
@@ -71,8 +71,8 @@ Beginner. 드라이브러시와 wash만으로 충분히 좋은 결과를 만들 
 
 1. 텍스처 페이스트와 모래를 베이스에 얹습니다.
 2. Black primer로 전체를 덮습니다.
-3. Charcoal을 바닥 전체에 칠합니다.
-4. Neutral Grey를 드라이브러시해 질감을 살립니다.
+3. Earth를 바닥 전체에 칠합니다.
+4. Khaki를 드라이브러시해 질감을 살립니다.
 5. Stonewall Grey를 더 가볍게 높은 부분에만 올립니다.
 6. Black Wash를 큰 돌 사이에 넣습니다.
 7. 발 주변에 Earth pigment를 아주 약하게 넣습니다.
@@ -83,12 +83,12 @@ Beginner. 드라이브러시와 wash만으로 충분히 좋은 결과를 만들 
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 깊은 바닥 |
-| Basecoat | Charcoal | 황무지 기준 |
-| Layer | Neutral Grey | 질감 |
+| Basecoat | Earth | 마른 흙 기준 |
+| Layer | Khaki | 질감 |
 | Shade | Black Wash | 틈 |
 | Highlight | Stonewall Grey | 돌 모서리 |
 | Edge Highlight | Bonewhite mix | 높은 자갈 |
-| Optional Drybrush | Neutral Grey, Stonewall Grey | 빠른 베이스 |
+| Optional Drybrush | Khaki, Bonewhite | 빠른 베이스 |
 | Optional Weathering | Earth pigment, Charred Brown | 발 주변 먼지 |
 | Brush-only method | 드라이브러시 2단계 | 기본 |
 | Airbrush notes | 큰 Knight base에 먼지 mist 가능 | 선택 |
@@ -128,19 +128,19 @@ Knights는 발굽 주변 먼지를 조금 더 넣으면 무게가 생깁니다. 
 
 | 문제 | 원인 | 해결 |
 |---|---|---|
-| 모델 하단이 사라짐 | 베이스가 너무 어두움 | Neutral Grey drybrush 추가 |
-| 베이스가 튐 | highlight 과다 | Charcoal glaze로 낮춤 |
+| 모델 하단이 사라짐 | 베이스가 너무 어두움 | Khaki drybrush 추가 |
+| 베이스가 튐 | highlight 과다 | Earth glaze로 낮춤 |
 | 피그먼트가 떨어짐 | 고정 부족 | Pigment Fixer 또는 Matt Varnish |
 | 림이 얼룩짐 | 마커 건조 부족 | 완전 건조 후 Black 재정리 |
 
 ## Summary
 
-Base는 전군을 하나로 묶는 마지막 색입니다. 어둡고 차가운 황무지로 모델을 받치고, 발 주변 웨더링으로 전장감을 더하세요.
+Base는 전군을 하나로 묶는 마지막 색입니다. 마른 갈색 흙으로 모델을 받치고, 약간의 풀 터프트와 발 주변 먼지로 전장감을 더하세요. 은색 갑옷 아래에는 **갈색이 회색보다 언제나 낫습니다.**
 
 ## Checklist
 
 - [ ] 전군 베이스 테마를 통일했다.
-- [ ] Charcoal과 Neutral Grey로 질감을 만들었다.
+- [ ] Earth와 Khaki로 질감을 만들었다.
 - [ ] 베이스가 모델보다 튀지 않는다.
 - [ ] 발 주변 먼지가 자연스럽다.
 - [ ] 베이스 림을 Black으로 깔끔하게 정리했다.

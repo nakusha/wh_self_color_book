@@ -28,6 +28,7 @@
 * [Chaos Lord](units/chaos-lord.md)
 * [Chaos Warriors](units/chaos-warriors.md)
 * [Chaos Knights](units/chaos-knights.md)
+* [Chaos Chariot](units/chaos-chariot.md)
 
 ## Appendix
 

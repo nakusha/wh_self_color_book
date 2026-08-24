@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Horns는 Chaos Lord, helmets, shields, trophies에서 자주 보이는 자연 포인트입니다. 검은 갑옷과 어두운 청동 사이에서 밝은 뿔은 시선을 끌 수 있으므로, 깨끗하지만 너무 새하얗지 않게 칠해야 합니다.
+Horns는 Chaos Lord, helmets, shields, trophies에서 자주 보이는 자연 포인트입니다. Pale Steel에서 뿔은 차가운 은색 사이에 **따뜻한 온도**를 넣는 역할입니다. 회색빛 뼈가 아니라 크림빛 뼈로 칠해야 갑옷과 구분됩니다. 너무 새하얗게 만들면 갑옷 하이라이트와 밝기가 겹칩니다.
 
 ## Painting goals
 
@@ -32,11 +32,11 @@ Intermediate. 작은 그라데이션과 줄무늬가 필요합니다.
 | Stage | Vallejo Game Color | Purpose |
 |---|---|---|
 | Primer | Black Primer, Off White spot | 깊이와 발색 |
-| Basecoat | Warm Grey | 뿔 중간톤 |
+| Basecoat | Khaki | 따뜻한 뿔 중간톤 |
 | Layer | Bonewhite | 밝은 끝 |
 | Shade | Sepia Wash | 뿌리와 홈 |
 | Highlight | Bonewhite | 형태 |
-| Edge Highlight | White | 끝단 극점 |
+| Edge Highlight | Off White | 끝단 극점 |
 | Optional Weathering | Charred Brown glaze | 더러운 뿌리 |
 | Recommended varnish | Matt Varnish | 자연 재질 |
 

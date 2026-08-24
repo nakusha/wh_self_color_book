@@ -32,8 +32,8 @@ Intermediate. 여러 재질이 붙어 있어 순서와 경계 정리가 중요�
 | Stage | Vallejo Game Color | Purpose |
 |---|---|---|
 | Primer | Black Primer | 깊은 홈 |
-| Basecoat | Dark Gunmetal, Tinny Tin, Charred Brown | 재질 구분 |
-| Layer | Chainmail, Brassy Brass, Leather Brown | 형태 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 재질 구분 |
+| Layer | Chainmail Silver, Brassy Brass, Leather Brown | 형태 |
 | Shade | Black Wash, Sepia Wash | 깊이 |
 | Highlight | Silver, Bright Bronze, Khaki | 주요 반사 |
 | Edge Highlight | Silver + White | 무기 끝 극점 |
@@ -44,7 +44,7 @@ Intermediate. 여러 재질이 붙어 있어 순서와 경계 정리가 중요�
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Blade | Dark Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
+| Blade | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
 | Blade Highlight | Silver | Stormhost Silver | Silver | Shining Silver | Sir Coates Silver |
 | Bronze Guard | Tinny Tin | Warplock Bronze | Old Bronze | Weapon Bronze | Spartan Bronze |
 | Grip | Charred Brown | Rhinox Hide | Leather Brown Dark | Oak Brown | Cuirass Leather |
@@ -67,11 +67,11 @@ Intermediate. 여러 재질이 붙어 있어 순서와 경계 정리가 중요�
 
 ## Step-by-step workflow
 
-1. Blade는 Dark Gunmetal로 칠합니다.
+1. Blade는 Gunmetal로 칠하고, 갑옷보다 어둡게 유지합니다.
 2. Guard와 장식은 Tinny Tin으로 칠합니다.
 3. Grip이나 haft는 Charred Brown으로 칠합니다.
 4. Blade에는 Black Wash, bronze에는 Sepia Wash를 각각 넣습니다.
-5. Chainmail로 blade 중앙과 상단 edge를 밝힙니다.
+5. Chainmail Silver로 blade 중앙과 상단 edge를 밝힙니다.
 6. Brassy Brass로 guard 상단을 밝힙니다.
 7. Silver로 무기 끝과 날 모서리를 찍습니다.
 8. Chipping marker 또는 Charred Brown으로 작은 손상점을 넣습니다.
@@ -81,12 +81,12 @@ Intermediate. 여러 재질이 붙어 있어 순서와 경계 정리가 중요�
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 깊이 |
-| Basecoat | Dark Gunmetal, Tinny Tin, Charred Brown | 재질 구분 |
-| Layer | Chainmail, Brassy Brass, Leather Brown | 볼륨 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 재질 구분 |
+| Layer | Chainmail Silver, Brassy Brass, Leather Brown | 볼륨 |
 | Shade | Black Wash, Sepia Wash | steel/bronze 분리 |
 | Highlight | Silver, Bright Bronze, Khaki | 반사 |
 | Edge Highlight | Silver + White | 무기 끝 |
-| Optional Drybrush | Chainmail | 사슬 달린 무기만 |
+| Optional Drybrush | Chainmail Silver | 사슬 달린 무기만 |
 | Optional Weathering | Chipping Color, Charred Brown | 손상 |
 | Brush-only method | 재질별로 분리해 얇게 | 가장 깔끔 |
 | Airbrush notes | 큰 무기나 Lord blade에만 가능 | 보통 비추천 |

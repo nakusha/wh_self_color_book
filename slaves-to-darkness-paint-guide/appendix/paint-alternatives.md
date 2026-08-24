@@ -31,24 +31,24 @@ Beginner to Intermediate. 실제 테스트 카드 없이 대체색을 고르면 
 
 | 역할 | 기준 Vallejo |
 |---|---|
-| Black Armor | Black, Charcoal, Neutral Grey |
+| Pale Steel Armor | Gunmetal, Chainmail Silver, Silver |
 | Bronze | Tinny Tin, Brassy Brass, Bright Bronze |
-| Steel | Dark Gunmetal, Chainmail, Silver |
+| Steel | Gunmetal, Chainmail Silver, Silver |
 | Leather/Wood | Charred Brown, Leather Brown, Beasty Brown |
 | Fur/Horn | Khaki, Bonewhite, White |
-| Base | Charcoal, Neutral Grey, Earth |
+| Base | Earth, Khaki, Bonewhite |
 
 ## Alternative paints
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
 | Black | Black | Abaddon Black | Black | Matt Black | Doom Death Black |
-| Near Black | Charcoal | Corvus Black | Rubber Black | Deep Grey | Dungeon Stone |
-| Grey Edge | Neutral Grey | Eshin Grey | Dark Grey | Uniform Grey | Carcharodon Grey |
+| Steel Layer | Chainmail Silver | Ironbreaker | Steel | Plate Mail Metal | Fenrisian Grey Steel |
+| Steel Edge | Silver | Runefang Steel | Bright Silver | Shining Silver | Rivet Silver |
 | Bronze Base | Tinny Tin | Warplock Bronze | Old Bronze | Weapon Bronze | Spartan Bronze |
 | Bronze Layer | Brassy Brass | Balthasar Gold | Bronze | True Copper | Dragon's Gold |
 | Bronze Highlight | Bright Bronze | Sycorax Bronze | Brass | Bright Gold mix | Glistening Gold |
-| Steel Base | Dark Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
+| Steel Base | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
 | Steel Highlight | Silver | Stormhost Silver | Silver | Shining Silver | Sir Coates Silver |
 | Dark Leather | Charred Brown | Rhinox Hide | Leather Brown Dark | Oak Brown | Cuirass Leather |
 | Mid Leather | Leather Brown | Mournfang Brown | Saddle Brown | Leather Brown | Fur Cloak |
@@ -99,8 +99,8 @@ Beginner to Intermediate. 실제 테스트 카드 없이 대체색을 고르면 
 
 | 작업 | AK Interactive marker | 붓 도료 대체 | 사용 방식 |
 |---|---|---|---|
-| Rivets | Aluminium, Dark Aluminium | Dark Gunmetal, Silver | 찍고 wash |
-| Chains | Aluminium | Dark Gunmetal | 초벌 후 Black Wash |
+| Rivets | Aluminium, Dark Aluminium | Gunmetal, Silver | 찍고 wash |
+| Chains | Aluminium | Gunmetal | 초벌 후 Black Wash |
 | Bronze trim | Brown/Bronze 계열 제품 가용 시 | Tinny Tin, Brassy Brass | 초벌 후 brush highlight |
 | Shield symbol | Off White, Aluminium | Bonewhite, Tinny Tin | 밑칠 또는 금속 초벌 |
 | Horn tip | Off White | Bonewhite | 밑칠 후 glaze |

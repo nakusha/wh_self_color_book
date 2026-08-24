@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Slaves to Darkness Spearhead는 초보자에게 매우 좋은 도색 박스입니다. 같은 검은 갑옷을 반복하면서도 `Chaos Lord`, `Chaos Warriors`, `Chaos Knights`가 각각 다른 크기와 질감을 보여주기 때문입니다. 이 책의 목표는 박스 안의 모델을 모두 같은 군대로 보이게 하면서, 각 유닛의 역할과 위압감을 살리는 것입니다.
+Slaves to Darkness Spearhead는 초보자에게 매우 좋은 도색 박스입니다. 같은 강철 갑옷을 반복하면서도 `Chaos Lord`, `Chaos Warriors`, `Chaos Knights`가 각각 다른 크기와 질감을 보여주기 때문입니다. 이 책의 목표는 박스 안의 모델을 모두 같은 군대로 보이게 하면서, 각 유닛의 역할과 위압감을 살리는 것입니다.
 
 이 가이드는 `Vallejo Game Color`를 기본 도료로 사용합니다. Vallejo는 무광에 가까운 마감, 부드러운 붓칠, 판타지 미니어처에 맞는 강한 색감을 제공하기 때문에 초보자가 색을 통제하기 쉽습니다. 대체 도료는 매 챕터마다 `Citadel`, `AK Interactive`, `Army Painter`, `Two Thin Coats`로 제공합니다.
 
@@ -12,7 +12,7 @@ Slaves to Darkness Spearhead는 초보자에게 매우 좋은 도색 박스입�
 
 | 목표 | 설명 | 왜 중요한가 |
 |---|---|---|
-| 검은 갑옷을 검게 유지 | 갑옷은 어둡지만 모서리는 읽혀야 함 | Slaves to Darkness의 위압감 유지 |
+| 강철 갑옷의 홈을 어둡게 유지 | 갑옷은 밝지만 판 경계는 어두워야 함 | Pale Steel의 무게감 유지 |
 | 청동 장식을 낡고 무겁게 표현 | 밝은 금보다 어두운 청동 사용 | 야만적이고 고대적인 분위기 |
 | 강철 무기를 차갑게 분리 | 무기와 사슬은 갑옷보다 차가워야 함 | 전투적인 실루엣 강화 |
 | 가죽, 털, 뿔을 낮은 채도로 처리 | 자연 재질은 조연으로 유지 | 모델이 산만해지지 않음 |
@@ -20,7 +20,7 @@ Slaves to Darkness Spearhead는 초보자에게 매우 좋은 도색 박스입�
 
 ## Difficulty
 
-Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고급 단계에서는 검은 갑옷의 명도 설계, 청동 산화, 제한적 웨더링, 마커와 붓의 혼합 사용을 다룹니다.
+Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고급 단계에서는 밝은 금속의 명도 설계, 청동 산화, 제한적 웨더링, 마커와 붓의 혼합 사용을 다룹니다.
 
 ## Estimated time
 
@@ -35,22 +35,22 @@ Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고
 
 | 역할 | Vallejo Game Color 중심 Paint | 사용 이유 |
 |---|---|---|
-| Black Armor | Black, Charcoal, Neutral Grey | 검은 갑옷의 단계적 명도 |
+| Pale Steel Armor | Gunmetal, Chainmail Silver, Silver | 강철 갑옷의 단계적 명도 |
 | Bronze Trim | Tinny Tin, Brassy Brass, Bright Bronze | 낡은 청동의 따뜻한 금속감 |
-| Steel | Dark Gunmetal, Chainmail, Silver | 무기와 사슬의 차가운 대비 |
-| Cloth | Heavy Charcoal, Gory Red, Hexed Lichen | 어두운 악의 군세 분위기 |
+| Steel | Gunmetal, Chainmail Silver, Silver | 무기와 사슬의 차가운 대비 |
+| Cloth | Charred Brown, Gory Red, Bonewhite | 은색 사이의 유일한 색 포인트 |
 | Leather | Charred Brown, Leather Brown, Bonewhite | 낮은 채도의 장비 |
 | Fur | Beasty Brown, Khaki, Bonewhite | 야수적 질감 |
 | Bone/Horn | Warm Grey, Bonewhite, White | 뿔과 해골 포인트 |
-| Base | Charcoal, Neutral Grey, Earth | 어두운 황무지 |
+| Base | Earth, Khaki, Bonewhite | 마른 갈색 흙 |
 
 ## Alternative paints
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Black Armor | Black, Charcoal | Abaddon Black, Corvus Black | Black, Rubber Black | Matt Black, Deep Grey | Doom Death Black, Dungeon Stone |
+| Pale Steel Armor | Gunmetal, Chainmail Silver | Leadbelcher, Ironbreaker | Gun Metal, Steel | Gun Metal, Plate Mail Metal | Sir Coates Silver |
 | Bronze | Tinny Tin, Brassy Brass | Warplock Bronze, Balthasar Gold | Bronze, Old Bronze | Weapon Bronze, True Copper | Spartan Bronze, Dragon's Gold |
-| Steel | Dark Gunmetal, Chainmail | Leadbelcher, Ironbreaker | Gun Metal, Natural Steel | Gun Metal, Shining Silver | Doom Death Black, Sir Coates Silver |
+| Weapon Steel | Gunmetal, Chainmail Silver | Leadbelcher, Ironbreaker | Gun Metal, Natural Steel | Gun Metal, Shining Silver | Sir Coates Silver |
 | Leather | Charred Brown, Leather Brown | Rhinox Hide, Mournfang Brown | Leather Brown, Saddle Brown | Oak Brown, Leather Brown | Cuirass Leather, Fur Cloak |
 | Bone | Warm Grey, Bonewhite | Rakarth Flesh, Ushabti Bone | Warm Grey, Ivory | Skeleton Bone, Banshee Brown | Wasteland Brown, Dragon Fang |
 
@@ -75,7 +75,7 @@ Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고
 
 ## Step-by-step workflow
 
-1. [Armor Recipe](recipes/armor.md)로 검은 갑옷 기준을 만듭니다.
+1. [Armor Recipe](recipes/armor.md)로 밝은 강철 갑옷 기준을 만듭니다.
 2. [Bronze Recipe](recipes/bronze.md)로 trim과 문양을 정리합니다.
 3. [Steel Recipe](recipes/steel.md)로 무기, 사슬, 리벳을 차갑게 분리합니다.
 4. [Leather Recipe](recipes/leather.md), [Fur Recipe](recipes/fur.md), [Horn Recipe](recipes/horn.md)를 작은 자연 재질에 적용합니다.
@@ -88,15 +88,15 @@ Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Vallejo Surface Primer Black | Spearhead 전체의 어두운 기준 |
-| Basecoat | Black, Tinny Tin, Dark Gunmetal | 갑옷, 청동, 강철의 큰 재질 구분 |
-| Layer | Charcoal, Brassy Brass, Chainmail | 검은 갑옷과 금속의 1차 명도 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 갑옷, 청동, 천의 큰 재질 구분 |
+| Layer | Chainmail Silver, Brassy Brass, Gory Red | 갑옷과 금속의 1차 명도 |
 | Shade | Black Wash, Sepia Wash | 홈, trim 경계, 낡은 금속감 |
-| Highlight | Neutral Grey, Bright Bronze, Silver | 모델이 테이블 위에서 읽히는 밝기 |
-| Edge Highlight | Neutral Grey + Bonewhite, Silver | 얼굴 주변, 방패 상단, 무기 끝 극점 |
-| Optional Drybrush | Khaki, Stonewall Grey | 털과 황무지 베이스 질감 |
+| Highlight | Silver, Bright Bronze, Bonewhite | 모델이 테이블 위에서 읽히는 밝기 |
+| Edge Highlight | Silver + Off White | 헬멧 상단, 방패 상단, 무기 날 극점 |
+| Optional Drybrush | Khaki, Charcoal | 털과 마른 흙 베이스 질감 |
 | Optional Weathering | Charred Brown, Chipping Color | 발끝, 방패 하단, 무기 흠집 |
 | Brush-only method | 얇은 basecoat 2회 후 edge 중심 | 초보자에게 가장 안정적인 방식 |
-| Airbrush notes | Black primer 후 Charcoal을 위쪽 45도에서 얇게 | Knights와 Lord의 큰 갑옷 면에만 선택 |
+| Airbrush notes | 금속 프라이머 후 묽은 Black을 아래 45도에서 얇게 | Knights와 Lord의 큰 갑옷 면에만 선택 |
 | Recommended varnish | Vallejo Matt Varnish, metal Satin 선택 | 갑옷은 무겁게, 금속은 살아 있게 |
 
 ## Marker Tips
@@ -124,11 +124,11 @@ Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고
 
 💡 Pro Tip
 
-검은 갑옷은 검정으로만 칠하면 사라집니다. `Charcoal`과 `Neutral Grey`를 아주 좁게 써서 모서리를 읽히게 만드는 것이 핵심입니다.
+밝은 강철 갑옷은 은색만으로 칠하면 형태가 사라집니다. `Game Wash Black`으로 판 경계를 어둡게 남기고, `Silver`를 아주 좁게 써서 모서리를 읽히게 만드는 것이 핵심입니다.
 
 ## Common mistakes
 
-- 갑옷 전체를 회색으로 하이라이트해 검은 갑옷의 무게가 사라지는 것
+- 갑옷 전체를 `Silver`로 밝혀 판 경계와 무게가 사라지는 것
 - 모든 trim을 밝은 금색으로 칠해 Slaves to Darkness 특유의 어두운 분위기를 잃는 것
 - 마커를 넓은 갑옷 면에 사용해 펜 자국이 남는 것
 - 베이스를 너무 밝게 만들어 모델보다 시선을 빼앗는 것
@@ -137,7 +137,7 @@ Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고
 
 | 문제 | 원인 | 해결 |
 |---|---|---|
-| 갑옷이 검은 덩어리처럼 보임 | 엣지 명도 부족 | Neutral Grey를 아주 얇게 모서리에 추가 |
+| 갑옷이 은색 덩어리처럼 보임 | 홈 그림자 부족 | `Game Wash Black`을 판 경계에 추가 |
 | 청동이 금색처럼 보임 | 하이라이트가 너무 밝음 | Sepia Wash 또는 Flesh Wash로 톤 낮춤 |
 | 마커 자국이 번짐 | 잉크 과다 토출 | 완전 건조 후 베이스색으로 가장자리 정리 |
 | 털이 납작함 | 드라이브러시 방향 부족 | 털 방향으로 Khaki를 가볍게 추가 |
@@ -149,7 +149,7 @@ Beginner to Advanced. 기본 과정은 초보자도 따라갈 수 있지만, 고
 ## Checklist
 
 - [ ] Chaos Warrior 기준 모델을 정했다.
-- [ ] Black armor, bronze trim, steel weapon의 역할을 이해했다.
+- [ ] pale steel armor, bronze trim, weapon steel의 역할을 이해했다.
 - [ ] 마커를 사용할 부위와 피할 부위를 구분했다.
 - [ ] Vallejo Game Color 중심 팔레트를 준비했다.
 - [ ] 첫 모델 완성 후 사진과 희석 비율을 기록할 준비를 했다.

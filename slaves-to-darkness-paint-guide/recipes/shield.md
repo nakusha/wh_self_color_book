@@ -11,7 +11,7 @@ Shield는 Chaos Warriors에서 가장 먼저 보이는 전면 부위입니다. �
 | 목표 | 설명 |
 |---|---|
 | 전면 가독성 | 방패 상단과 symbol이 읽혀야 함 |
-| 갑옷과 통일 | Black/Charcoal 기준 유지 |
+| 갑옷과 통일 | Gunmetal 기준 유지 |
 | trim 선명도 | Bronze가 방패 형태를 잡음 |
 | 마커 활용 | symbol, rivets, scratches 초벌 |
 | 제한적 손상 | 하단에만 battle damage |
@@ -34,12 +34,12 @@ Intermediate. 넓은 방패 중앙은 매끈해야 하고, 작은 symbol은 정�
 |---|---|---|
 | Primer | Black Primer | 깊은 시작 |
 | Basecoat | Black | 방패판 |
-| Layer | Charcoal | 상단 면 |
+| Layer | Chainmail Silver | 상단 면 |
 | Shade | Black Wash | 문양과 trim 경계 |
-| Highlight | Neutral Grey | 방패 edge |
-| Edge Highlight | Neutral Grey + Bonewhite | 상단 극점 |
+| Highlight | Silver | 방패 edge |
+| Edge Highlight | Silver + Off White | 상단 극점 |
 | Bronze | Tinny Tin, Brassy Brass | trim과 symbol |
-| Steel | Dark Gunmetal, Silver | rivets와 scratches |
+| Steel | Gunmetal, Silver | rivets와 scratches |
 | Recommended varnish | Matt shield, Satin metal | 재질 분리 |
 
 ## Alternative paints
@@ -47,10 +47,10 @@ Intermediate. 넓은 방패 중앙은 매끈해야 하고, 작은 symbol은 정�
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
 | Shield Black | Black | Abaddon Black | Black | Matt Black | Doom Death Black |
-| Shield Layer | Charcoal | Corvus Black | Rubber Black | Deep Grey | Dungeon Stone |
-| Edge | Neutral Grey | Eshin Grey | Dark Grey | Uniform Grey | Carcharodon Grey |
+| Shield Layer | Chainmail Silver | Ironbreaker | Steel | Plate Mail Metal | Fenrisian Grey Steel |
+| Edge | Silver | Runefang Steel | Bright Silver | Shining Silver | Rivet Silver |
 | Bronze Symbol | Brassy Brass | Balthasar Gold | Bronze | True Copper | Dragon's Gold |
-| Steel Rivets | Dark Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
+| Steel Rivets | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
 
 ## Tools
 
@@ -71,13 +71,13 @@ Intermediate. 넓은 방패 중앙은 매끈해야 하고, 작은 symbol은 정�
 ## Step-by-step workflow
 
 1. Black으로 방패판 전체를 칠합니다.
-2. Charcoal을 방패 상단과 중앙 볼륨에 얇게 올립니다.
-3. Neutral Grey로 방패 외곽 edge를 정리합니다.
+2. Chainmail Silver를 방패 상단과 중앙 볼륨에 얇게 올립니다.
+3. Silver로 방패 외곽 edge를 정리합니다.
 4. Tinny Tin으로 trim과 symbol을 칠합니다. 마커 초벌 가능.
 5. Sepia Wash로 bronze 홈을 낮춥니다.
 6. Brassy Brass와 Bright Bronze로 symbol 상단을 밝힙니다.
-7. rivets는 Dark Gunmetal 또는 metal marker로 찍고 Black Wash를 넣습니다.
-8. 하단에 Chipping Color와 Dark Gunmetal로 작은 손상을 추가합니다.
+7. rivets는 Gunmetal 또는 metal marker로 찍고 Black Wash를 넣습니다.
+8. 하단에 Chipping Color와 Gunmetal로 작은 손상을 추가합니다.
 
 ## Painting recipe
 
@@ -85,14 +85,14 @@ Intermediate. 넓은 방패 중앙은 매끈해야 하고, 작은 symbol은 정�
 |---|---|---|
 | Primer | Black Primer | 방패 깊이 |
 | Basecoat | Black, Tinny Tin | 방패판과 trim |
-| Layer | Charcoal, Brassy Brass | 형태 |
+| Layer | Chainmail Silver, Brassy Brass | 형태 |
 | Shade | Black Wash, Sepia Wash | 경계와 깊이 |
-| Highlight | Neutral Grey, Bright Bronze | 전면 가독성 |
-| Edge Highlight | Neutral Grey + Bonewhite, Silver | 상단 극점 |
+| Highlight | Silver, Bright Bronze | 전면 가독성 |
+| Edge Highlight | Silver + Off White, Silver | 상단 극점 |
 | Optional Drybrush | 비추천 | 방패판은 매끈해야 함 |
-| Optional Weathering | Chipping Color, Dark Gunmetal | 하단 손상 |
+| Optional Weathering | Chipping Color, Gunmetal | 하단 손상 |
 | Brush-only method | 방패판 붓 레이어, symbol 디테일 | 최고 품질 |
-| Airbrush notes | 큰 방패에 Charcoal 45도 가능 | 선택 |
+| Airbrush notes | 큰 방패에 Chainmail Silver 45도 가능 | 선택 |
 | Recommended varnish | Matt shield, Satin trim | 재질 분리 |
 
 ## Marker Tips
@@ -130,9 +130,9 @@ Shield는 마커를 잘 쓰면 속도가 크게 오릅니다. 특히 양각 symb
 
 | 문제 | 원인 | 해결 |
 |---|---|---|
-| 방패가 평평함 | 상단 Charcoal 부족 | 중앙 상단에 얇은 layer |
+| 방패가 평평함 | 상단 Chainmail Silver 부족 | 중앙 상단에 얇은 layer |
 | symbol이 지저분함 | 마커 번짐 | 완전 건조 후 Black으로 경계 정리 |
-| 손상이 과함 | 칩 반복 과다 | Black/Charcoal로 일부 덮기 |
+| 손상이 과함 | 칩 반복 과다 | Gunmetal로 일부 덮기 |
 | rivet이 큼 | 팁 크기 과다 | 방패색으로 주변 줄이기 |
 
 ## Summary

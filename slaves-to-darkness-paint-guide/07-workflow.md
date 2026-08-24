@@ -35,21 +35,21 @@ Beginner to Intermediate. 순서를 지키면 초보자도 안정적으로 완�
 | 공정 | Paint |
 |---|---|
 | Primer | Vallejo Surface Primer Black |
-| Armor | Black, Charcoal, Neutral Grey |
+| Armor | Gunmetal, Chainmail Silver, Silver |
 | Bronze | Tinny Tin, Brassy Brass, Sepia Wash |
-| Steel | Dark Gunmetal, Chainmail, Black Wash |
+| Steel | Gunmetal, Chainmail Silver, Black Wash |
 | Cloth/Leather | Gory Red, Charred Brown, Leather Brown |
 | Fur/Horn | Beasty Brown, Khaki, Bonewhite |
-| Base | Charcoal, Neutral Grey, Earth |
+| Base | Earth, Khaki, Bonewhite |
 | Varnish | Matt Varnish, Satin Varnish |
 
 ## Alternative paints
 
 | 공정 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Armor | Black, Charcoal | Abaddon Black, Corvus Black | Black, Rubber Black | Matt Black, Deep Grey | Doom Death Black |
+| Armor | Gunmetal, Chainmail Silver | Leadbelcher, Ironbreaker | Gun Metal, Steel | Gun Metal, Plate Mail Metal | Sir Coates Silver |
 | Bronze | Tinny Tin, Brassy Brass | Warplock Bronze, Balthasar Gold | Old Bronze, Bronze | Weapon Bronze, True Copper | Spartan Bronze |
-| Steel | Dark Gunmetal, Chainmail | Leadbelcher, Ironbreaker | Gun Metal, Natural Steel | Gun Metal, Shining Silver | Sir Coates Silver |
+| Steel | Gunmetal, Chainmail Silver | Leadbelcher, Ironbreaker | Gun Metal, Natural Steel | Gun Metal, Shining Silver | Sir Coates Silver |
 | Leather | Charred Brown, Leather Brown | Rhinox Hide, Mournfang Brown | Leather Brown | Oak Brown, Leather Brown | Cuirass Leather |
 | Bone | Bonewhite | Ushabti Bone | Ivory | Skeleton Bone | Dragon Fang |
 
@@ -89,15 +89,15 @@ Beginner to Intermediate. 순서를 지키면 초보자도 안정적으로 완�
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 전군 통일 시작 |
-| Basecoat | Black, Tinny Tin, Dark Gunmetal | 큰 재질 구분 |
-| Layer | Charcoal, Brassy Brass, Chainmail | 형태와 재질 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 큰 재질 구분 |
+| Layer | Chainmail Silver, Brassy Brass, Gory Red | 형태와 재질 |
 | Shade | Black Wash, Sepia Wash | 홈과 낡은 느낌 |
-| Highlight | Neutral Grey, Bright Bronze, Silver | 읽힘 |
-| Edge Highlight | Neutral Grey + Bonewhite | 상단 시선점 |
-| Optional Drybrush | Khaki, Neutral Grey | 털과 베이스 |
+| Highlight | Silver, Bright Bronze, Bonewhite | 읽힘 |
+| Edge Highlight | Silver + Off White | 상단 시선점 |
+| Optional Drybrush | Khaki, Charcoal | 털과 베이스 |
 | Optional Weathering | Charred Brown, Chipping Color | 하단 사용감 |
 | Brush-only method | 분대별 batch painting | 가장 안정적인 방식 |
-| Airbrush notes | Knights의 큰 갑옷에 Charcoal 45도 | 시간 절약 |
+| Airbrush notes | Knights의 큰 갑옷에 묽은 Black을 아래 45도 | 시간 절약 |
 | Recommended varnish | Matt 전체, metal Satin 선택 | 내구성과 질감 |
 
 ## Marker Tips
@@ -137,7 +137,7 @@ Knights는 말과 기수의 밝기 우선순위를 나누세요. 말은 무겁�
 | 문제 | 원인 | 해결 |
 |---|---|---|
 | 분대 색이 다름 | 모델별 완성 방식 | 공정별 batch painting으로 전환 |
-| trim이 지저분함 | 갑옷 수정 전 금속 완성 | Black/Charcoal로 경계 정리 후 재하이라이트 |
+| trim이 지저분함 | 갑옷 수정 전 금속 완성 | `Gunmetal`로 경계 정리 후 재하이라이트 |
 | 프로젝트가 느림 | 모든 모델 display 품질 목표 | Warrior는 tabletop+, Lord만 display |
 | 마커 자국이 보임 | 초벌 후 정리 부족 | wash와 붓 highlight로 통합 |
 

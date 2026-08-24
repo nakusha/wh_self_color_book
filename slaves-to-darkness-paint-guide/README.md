@@ -4,9 +4,29 @@
 
 이 책은 Age of Sigmar `Slaves to Darkness Spearhead` 박스를 처음부터 끝까지 칠하기 위한 한국어 페인팅 가이드입니다. 기본 도료 체계는 `Vallejo Game Color`를 중심으로 구성하고, 각 레시피마다 `Citadel`, `AK Interactive`, `Army Painter`, `Two Thin Coats` 대체 도료를 함께 제공합니다.
 
-Slaves to Darkness는 검은 철갑, 차가운 강철, 낡은 청동, 거친 가죽, 무거운 천, 짐승 털, 뿔, 어두운 베이스가 함께 어울려야 하는 군대입니다. 이 가이드는 초보자가 Spearhead 박스 전체를 완성할 수 있도록 순서를 세밀하게 나누고, 숙련자를 위해 글레이즈, 선택적 마커 작업, 제한적 웨더링, 광택 분리까지 다룹니다.
+Slaves to Darkness는 밝게 닦인 강철 판금, 낡은 청동, 짙은 적색 천, 검은 짐승 털, 크림빛 뿔, 마른 갈색 흙 베이스가 함께 어울려야 하는 군대입니다. 이 책의 기준 스킴은 **Pale Steel**입니다. 이 가이드는 초보자가 Spearhead 박스 전체를 완성할 수 있도록 순서를 세밀하게 나누고, 숙련자를 위해 글레이즈, 선택적 마커 작업, 제한적 웨더링, 광택 분리까지 다룹니다.
 
-![Dark Gunmetal Final Reference Sheet](images/dark-gunmetal-final-reference-sheet.png)
+## 두 가지 스킴 (A안 / B안)
+
+이 책은 두 스킴을 모두 지원합니다. **기준은 A안**이고, B안은 [Color Concept](02-color-concept.md#dark-gunmetal-변형)에 변형으로 정리했습니다. 한 부대에 두 안을 섞지 마세요.
+
+### A안 · Pale Steel — 밝게 닦인 강철 판금
+
+![A안 Pale Steel Reference Sheet](images/scheme-a-pale-steel-reference-sheet.svg)
+
+### B안 · Dark Gunmetal — 검게 눌린 철갑
+
+![B안 Dark Gunmetal Reference Sheet](images/scheme-b-dark-gunmetal-reference-sheet.svg)
+
+| 항목 | A안 Pale Steel | B안 Dark Gunmetal |
+|---|---|---|
+| 프라이머 | Leadbelcher Spray / Surface Primer Gunmetal | Chaos Black / Surface Primer Black |
+| 작업 방향 | Top-down (밝은 상태에서 어둡게) | Bottom-up (어두운 상태에서 밝게) |
+| 갑옷 3단계 | Leadbelcher → Ironbreaker → Runefang Steel | Abaddon Black → Corvus Black → Eshin Grey |
+| Vallejo | Gunmetal → Chainmail Silver → Silver | Black → Charcoal → Neutral Grey |
+| 베이스 | 마른 갈색 흙 | 차가운 회색 |
+| 난이도 | wash 조절이 관건 | 엣지 면적 조절이 관건 |
+| 전군 도색 속도 | 빠름 (프라이머가 basecoat) | 보통 |
 
 ## Image Notice
 
@@ -49,6 +69,7 @@ Slaves to Darkness는 검은 철갑, 차가운 강철, 낡은 청동, 거친 가
 - [Chaos Lord](units/chaos-lord.md)
 - [Chaos Warriors](units/chaos-warriors.md)
 - [Chaos Knights](units/chaos-knights.md)
+- [Chaos Chariot](units/chaos-chariot.md)
 
 ## Appendix
 

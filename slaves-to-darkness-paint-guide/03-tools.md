@@ -10,9 +10,9 @@
 
 | 목표 | 필요한 도구 | 이유 |
 |---|---|---|
-| 깨끗한 검은 갑옷 | 니퍼, 사포, 1호 브러시 | 표면 결함이 검은 갑옷에서 잘 보임 |
+| 깨끗한 강철 갑옷 | 니퍼, 사포, 1호 브러시 | 표면 결함과 몰드라인이 밝은 금속에서 특히 잘 보임 |
 | 빠른 trim 작업 | 0.7~1mm acrylic marker | 양각 금속 장식을 빠르게 초벌 |
-| 거친 베이스 | 드라이브러시, 텍스처 도구 | 황무지 질감 표현 |
+| 거친 베이스 | 드라이브러시, 텍스처 도구 | 마른 흙 질감 표현 |
 | 안정적 금속 | 금속 전용 브러시 | 금속 입자 오염 방지 |
 | 대형 모델 명암 | 에어브러시 선택 | Chaos Knights의 큰 면 처리 |
 
@@ -35,8 +35,8 @@ Beginner. 도구를 많이 사는 것보다 어떤 도구를 어느 단계에 �
 |---|---|---|
 | 표면 확인 | Vallejo Black Primer, Grey Primer | 프라이머 품질 확인 |
 | 마커 테스트 | AK Real Colors Markers Off White, Rubber Black, Aluminium | 발색과 흐름 확인 |
-| 베이스 질감 | Vallejo Earth Texture, Charcoal | 건조 질감 테스트 |
-| 금속 오염 확인 | Dark Gunmetal | 브러시 분리 필요 확인 |
+| 베이스 질감 | Vallejo Earth Texture, Earth | 건조 질감 테스트 |
+| 금속 오염 확인 | Gunmetal | 브러시 분리 필요 확인 |
 
 ## Alternative paints
 
@@ -84,12 +84,12 @@ Beginner. 도구를 많이 사는 것보다 어떤 도구를 어느 단계에 �
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer | 도구 테스트 기준 |
-| Basecoat | Charcoal | 붓 커버력 확인 |
-| Layer | Neutral Grey | 엣지 제어 확인 |
+| Basecoat | Gunmetal | 붓 커버력 확인 |
+| Layer | Silver | 엣지 제어 확인 |
 | Shade | Black Wash | 홈 흐름 확인 |
-| Highlight | Chainmail | 금속 브러시 분리 |
+| Highlight | Chainmail Silver | 금속 브러시 분리 |
 | Edge Highlight | Silver | 0호 브러시 끝 확인 |
-| Optional Drybrush | Neutral Grey | 드라이브러시 질감 |
+| Optional Drybrush | Khaki | 드라이브러시 질감 |
 | Optional Weathering | Charred Brown | 스펀지 테스트 |
 | Brush-only method | 1호와 0호 분업 | 기본 권장 |
 | Airbrush notes | 0.3mm, 낮은 압력부터 테스트 | 선택 도구 |
@@ -122,7 +122,7 @@ Beginner. 도구를 많이 사는 것보다 어떤 도구를 어느 단계에 �
 ## Common mistakes
 
 - 모델 위에서 마커를 펌핑해 잉크가 흘러내리는 것
-- 금속 브러시와 일반 브러시를 섞어 검은 갑옷에 금속 입자가 묻는 것
+- 금속 브러시와 일반 브러시를 섞어 천과 뼈에 금속 입자가 묻는 것
 - 좋은 브러시로 드라이브러시를 해서 끝이 망가지는 것
 - 에어브러시를 세척하지 않아 다음 색에 이전 색이 섞이는 것
 

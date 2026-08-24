@@ -1,5 +1,9 @@
 # Chaos Lord
 
+![Chaos Lord Reference Sheet](../images/unit-chaos-lord-reference-sheet.svg)
+
+![Chaos Lord on Karkadrak Reference Sheet](../images/unit-chaos-lord-karkadrak-reference-sheet.svg)
+
 ![Chaos Lord foot art reference](../images/unit-chaos-lord-01.jpg)
 
 ## Introduction
@@ -30,22 +34,22 @@ Advanced. 여러 재질이 밀집되어 있고, 너무 밝게 칠하면 전군 �
 
 | 영역 | Vallejo Game Color |
 |---|---|
-| Armor | Black, Charcoal, Neutral Grey |
+| Armor | Gunmetal, Chainmail Silver, Silver |
 | Bronze | Tinny Tin, Brassy Brass, Bright Bronze |
-| Steel Weapon | Dark Gunmetal, Chainmail, Silver |
+| Steel Weapon | Gunmetal, Chainmail Silver, Silver |
 | Cloth | Gory Red or Hexed Lichen |
 | Leather | Charred Brown, Leather Brown |
 | Fur | Charred Brown, Beasty Brown, Khaki |
 | Horn/Bone | Warm Grey, Bonewhite, White |
-| Base | Charcoal, Neutral Grey, Earth |
+| Base | Earth, Khaki, Bonewhite |
 
 ## Alternative paints
 
 | 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
-| Armor | Black, Charcoal | Abaddon Black, Corvus Black | Black, Rubber Black | Matt Black, Deep Grey | Doom Death Black |
+| Armor | Gunmetal, Chainmail Silver | Leadbelcher, Ironbreaker | Gun Metal, Steel | Gun Metal, Plate Mail Metal | Sir Coates Silver |
 | Bronze | Tinny Tin, Brassy Brass | Warplock Bronze, Balthasar Gold | Old Bronze, Bronze | Weapon Bronze, True Copper | Spartan Bronze |
-| Steel | Dark Gunmetal, Silver | Leadbelcher, Stormhost Silver | Gun Metal, Silver | Gun Metal, Shining Silver | Sir Coates Silver |
+| Steel | Gunmetal, Silver | Leadbelcher, Stormhost Silver | Gun Metal, Silver | Gun Metal, Shining Silver | Sir Coates Silver |
 | Fur | Beasty Brown, Khaki | Mournfang Brown, Karak Stone | Saddle Brown, Tan | Leather Brown, Banshee Brown | Fur Cloak |
 | Horn | Bonewhite | Ushabti Bone | Ivory | Skeleton Bone | Dragon Fang |
 
@@ -80,11 +84,11 @@ Advanced. 여러 재질이 밀집되어 있고, 너무 밝게 칠하면 전군 �
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | Black Primer, Off White spot on horns | 깊이와 밝은 부위 발색 |
-| Basecoat | Black, Tinny Tin, Dark Gunmetal | 주요 재질 |
-| Layer | Charcoal, Brassy Brass, Chainmail | 볼륨 |
+| Basecoat | Gunmetal, Tinny Tin, Charred Brown | 주요 재질 |
+| Layer | Chainmail Silver, Brassy Brass, Gory Red | 볼륨 |
 | Shade | Black Wash, Sepia Wash | 재질별 깊이 |
-| Highlight | Neutral Grey, Bright Bronze, Silver | 캐릭터 선명도 |
-| Edge Highlight | Neutral Grey + Bonewhite, White | 얼굴 주변 극점 |
+| Highlight | Silver, Bright Bronze, Bonewhite | 캐릭터 선명도 |
+| Edge Highlight | Silver + Off White | 헬멧 주변 극점 |
 | Optional Drybrush | Khaki on fur/base | 질감 |
 | Optional Weathering | Chipping Color, Earth pigment | 하단 사용감 |
 | Brush-only method | 권장 | 캐릭터 품질 |
@@ -129,7 +133,7 @@ Warriors보다 청동을 조금 더 밝게 칠하되, 갑옷 자체는 검게 �
 |---|---|---|
 | Lord가 Warriors와 차이가 없음 | 극점 부족 | 얼굴 주변과 weapon edge 강화 |
 | 너무 밝고 가벼움 | 갑옷 하이라이트 과다 | Black glaze로 갑옷 낮춤 |
-| trim이 지저분함 | 마커 경계 미정리 | Black/Charcoal로 경계 정리 |
+| trim이 지저분함 | 마커 경계 미정리 | `Gunmetal`로 경계 정리 |
 | fur가 거칠다 | drybrush 과다 | Sepia glaze 후 Khaki 재하이라이트 |
 
 ## Summary

@@ -4,14 +4,14 @@
 
 ## Introduction
 
-Slaves to Darkness의 trim은 깨끗한 금색보다 낡은 청동이 잘 어울립니다. 청동은 검은 갑옷과 따뜻하게 대비되지만, 너무 밝으면 영웅적인 금장처럼 보입니다. 이 장은 armor trim, shield symbol, helmet decoration, Chaos icon에 적용하는 aged bronze 레시피입니다.
+Slaves to Darkness의 trim은 깨끗한 금색보다 낡은 청동이 잘 어울립니다. 청동은 차가운 강철 갑옷과 색온도로 대비되지만, 너무 밝으면 영웅적인 금장처럼 보입니다. Pale Steel에서는 갑옷이 이미 밝기 때문에 청동을 **작은 면적으로 절제해서** 써야 합니다. 이 장은 armor trim, shield symbol, helmet decoration, Chaos icon에 적용하는 aged bronze 레시피입니다.
 
 ## Painting goals
 
 | 목표 | 설명 |
 |---|---|
 | 낡은 금속 | Tinny Tin과 Sepia Wash로 깊이 |
-| 검은 갑옷과 분리 | Brassy Brass 하이라이트 |
+| 강철 갑옷과 분리 | 색온도 차이와 Brassy Brass 하이라이트 |
 | 과한 금색 방지 | Bright Bronze를 제한적으로 사용 |
 | 마커 활용 | trim 초벌 속도 향상 |
 | 고급 표현 | verdigris를 아주 적게 추가 |
@@ -64,7 +64,7 @@ Intermediate. trim은 작지만 양이 많습니다. 빠른 초벌과 깔끔한 
 1. [Armor Recipe](armor.md)의 갑옷 base와 주요 하이라이트를 먼저 완료합니다.
 2. trim 경계에 Black이 남아 있어도 괜찮습니다. 깊은 그림자 역할을 합니다.
 3. 마커를 사용할 경우 trim 폭과 팁 크기가 맞는지 테스트합니다.
-4. 금속 도료가 주변 갑옷에 묻으면 즉시 Black/Charcoal로 정리합니다.
+4. 금속 도료가 주변 갑옷에 묻으면 즉시 `Gunmetal`로 정리합니다.
 
 ## Step-by-step workflow
 
@@ -103,7 +103,7 @@ Bronze trim은 마커가 가장 빛나는 부위 중 하나입니다. 양각 tri
 | Helmet horns bands | 제한적 | Bone/bronze 경계 정리 |
 | Large flat bronze plate | 비추천 | 붓 레이어가 더 매끈함 |
 
-> ⚠ Bronze marker가 갑옷 위로 삐져나가면 완전히 마른 뒤 Black/Charcoal로 경계를 정리하세요. 젖은 상태에서 문지르면 금속 입자가 퍼집니다.
+> ⚠ Bronze marker가 갑옷 위로 삐져나가면 완전히 마른 뒤 `Gunmetal`로 경계를 정리하세요. 젖은 상태에서 문지르면 금속 입자가 퍼집니다.
 
 ## Professional tips
 
@@ -128,12 +128,12 @@ Verdigris는 많이 넣을수록 고급스러워지는 효과가 아닙니다. C
 |---|---|---|
 | 청동이 너무 밝다 | Bright Bronze 과다 | Sepia Wash로 낮춤 |
 | 청동이 탁하다 | wash 과다 | Brassy Brass로 상단 복구 |
-| 경계가 지저분하다 | trim 밖으로 번짐 | Black/Charcoal로 경계 재정리 |
+| 경계가 지저분하다 | trim 밖으로 번짐 | `Gunmetal`로 경계 재정리 |
 | 산화가 과하다 | Verdigris 면적 과다 | Tinny Tin으로 일부 덮기 |
 
 ## Summary
 
-청동 trim은 Slaves to Darkness의 고대적 위압감을 만드는 핵심입니다. 마커로 초벌 속도를 높이고 붓으로 shade와 highlight를 완성하면 [Armor Recipe](armor.md)의 검은 갑옷과 강하게 대비됩니다.
+청동 trim은 Slaves to Darkness의 고대적 위압감을 만드는 핵심입니다. 마커로 초벌 속도를 높이고 붓으로 shade와 highlight를 완성하면 [Armor Recipe](armor.md)의 차가운 강철과 색온도로 분리됩니다.
 
 ## Checklist
 

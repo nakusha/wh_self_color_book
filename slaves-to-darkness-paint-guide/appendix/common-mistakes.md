@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Slaves to Darkness 도색의 실수는 대부분 색 선택보다 명도, 순서, 도료 두께, 마커 사용 위치에서 생깁니다. 검은 갑옷은 너무 어두우면 안 보이고, 너무 밝으면 검은 갑옷이 아닙니다. 마커는 trim과 rivets에는 빠르지만, 넓은 면과 자연 재질에는 위험합니다.
+Slaves to Darkness 도색의 실수는 대부분 색 선택보다 명도, 순서, 도료 두께, 마커 사용 위치에서 생깁니다. 밝은 강철 갑옷은 홈이 얕으면 형태가 사라지고, 하이라이트가 넓으면 호일처럼 보입니다. 마커는 trim과 rivets에는 빠르지만, 넓은 면과 자연 재질에는 위험합니다.
 
 ## Painting goals
 
@@ -32,11 +32,11 @@ Beginner to Advanced. 작은 실수는 쉽게 고칠 수 있지만, 프라이머
 
 | 문제 해결 | Vallejo Paint |
 |---|---|
-| 갑옷 복구 | Black, Charcoal |
-| edge 재정리 | Neutral Grey |
+| 갑옷 복구 | Gunmetal, Chainmail Silver |
+| edge 재정리 | Silver |
 | bronze 복구 | Tinny Tin, Brassy Brass |
-| steel 복구 | Dark Gunmetal, Silver |
-| 마커 번짐 복구 | Black, Charcoal, Sepia Wash |
+| steel 복구 | Gunmetal, Silver |
+| 마커 번짐 복구 | Gunmetal, Chainmail Silver, Sepia Wash |
 | 바니시 복구 | Matt Varnish, Satin Varnish |
 
 ## Alternative paints
@@ -44,9 +44,9 @@ Beginner to Advanced. 작은 실수는 쉽게 고칠 수 있지만, 프라이머
 | 해결 역할 | Vallejo | Citadel | AK Interactive | Army Painter | Two Thin Coats |
 |---|---|---|---|---|---|
 | Black repair | Black | Abaddon Black | Black | Matt Black | Doom Death Black |
-| Grey repair | Charcoal | Corvus Black | Rubber Black | Deep Grey | Dungeon Stone |
+| Steel repair | Chainmail Silver | Ironbreaker | Steel | Plate Mail Metal | Fenrisian Grey Steel |
 | Bronze repair | Tinny Tin | Warplock Bronze | Old Bronze | Weapon Bronze | Spartan Bronze |
-| Steel repair | Dark Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
+| Steel repair | Gunmetal | Leadbelcher | Gun Metal | Gun Metal | Sir Coates Silver dark mix |
 | Matte reset | Matt Varnish | Munitorum Varnish | Ultra Matte | Anti-Shine | Matte Varnish |
 
 ## Tools
@@ -69,7 +69,7 @@ Beginner to Advanced. 작은 실수는 쉽게 고칠 수 있지만, 프라이머
 ## Step-by-step workflow
 
 1. 실수를 발견하면 멈추고 건조를 기다립니다.
-2. 갑옷 번짐은 Black 또는 Charcoal로 경계를 다시 그립니다.
+2. 갑옷 번짐은 `Gunmetal`로 경계를 다시 그립니다.
 3. trim이 탁하면 Brassy Brass로 상단을 복구합니다.
 4. steel이 너무 밝으면 Black Wash로 낮춥니다.
 5. 마커 번짐은 주변 base color로 덮고 다시 작은 면만 칠합니다.
@@ -80,12 +80,12 @@ Beginner to Advanced. 작은 실수는 쉽게 고칠 수 있지만, 프라이머
 | Stage | Paint | Purpose |
 |---|---|---|
 | Primer | 필요 시 부분 Black Primer | 표면 복구 |
-| Basecoat | Black, Charcoal | 갑옷 복구 |
-| Layer | Tinny Tin, Dark Gunmetal | 금속 복구 |
+| Basecoat | Gunmetal | 갑옷 복구 |
+| Layer | Tinny Tin, Chainmail Silver | 금속 복구 |
 | Shade | Black Wash, Sepia Wash | 톤 재정리 |
-| Highlight | Neutral Grey, Brassy Brass, Silver | 읽힘 복구 |
+| Highlight | Silver, Brassy Brass, Bonewhite | 읽힘 복구 |
 | Edge Highlight | Bonewhite mix, Silver point | 극점 복구 |
-| Optional Drybrush | Neutral Grey | 베이스 복구 |
+| Optional Drybrush | Khaki | 베이스 복구 |
 | Optional Weathering | Chipping Color | 작은 흠 숨김 |
 | Brush-only method | 얇은 glaze와 edge 수정 | 가장 안전 |
 | Airbrush notes | 큰 면만 얇은 필터 | 고급 복구 |
@@ -117,7 +117,7 @@ Beginner to Advanced. 작은 실수는 쉽게 고칠 수 있지만, 프라이머
 ## Common mistakes
 
 - 젖은 도료를 계속 만져 표면을 찢는 것
-- 검은 갑옷 복구에 순수 Black만 써 모든 명암을 지우는 것
+- 갑옷 복구에 `Silver`만 써 판 경계의 어둠까지 지우는 것
 - 마커 실수를 문질러 금속 입자를 퍼뜨리는 것
 - 바니시를 테스트 없이 바로 모델에 뿌리는 것
 
@@ -125,7 +125,7 @@ Beginner to Advanced. 작은 실수는 쉽게 고칠 수 있지만, 프라이머
 
 | 문제 | 원인 | 해결 |
 |---|---|---|
-| 갑옷이 검은 덩어리 | edge 부족 | Neutral Grey edge 추가 |
+| 갑옷이 은색 덩어리 | 홈 그림자 부족 | 판 경계에 Game Wash Black 추가 |
 | 갑옷이 회색 | highlight 과다 | Black glaze |
 | bronze가 탁함 | wash 과다 | Brassy Brass 상단 복구 |
 | fur가 거침 | drybrush 과다 | Sepia glaze |

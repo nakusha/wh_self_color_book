@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Fur는 Slaves to Darkness 모델에 야만성과 추위를 더합니다. Warriors와 Lord의 장식, Knights의 장비 주변에서 작은 면으로 등장하지만, 질감이 잘 살아나면 검은 갑옷과 금속 사이에 자연 재질의 대비가 생깁니다.
+Fur는 Slaves to Darkness 모델에 야만성과 추위를 더합니다. Warriors와 Lord의 장식, Knights의 장비 주변에서 작은 면으로 등장하지만, Pale Steel에서 검은 털은 밝은 갑옷을 감싸는 **어두운 액자** 역할까지 맡습니다. 털을 밝게 칠하지 마세요.
 
 ## Painting goals
 
