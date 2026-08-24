@@ -10,6 +10,10 @@ Warhammer 미니어처를 스스로 칠하기 위한 한국어 페인팅 가이�
 | [Slaves to Darkness Spearhead Paint Guide](slaves-to-darkness-paint-guide/README.md) | ![Pale Steel Slaves to Darkness](slaves-to-darkness-paint-guide/images/scheme-a-pale-steel-reference-sheet.svg) | 밝게 닦인 강철 판금(A안)과 검게 눌린 철갑(B안) 두 스킴으로 Spearhead 박스를 완성하는 가이드입니다. |
 | [World Eaters Classic Blood](world-eaters-classic-blood/README.md) | ![Classic Blood World Eaters](world-eaters-classic-blood/images/classic-blood-reference-sheet.png) | 어두운 피색 갑옷, aged brass trim, blackened steel을 중심으로 World Eaters를 칠하기 위한 기본 도료와 레시피입니다. |
 
+## 빠른 참조
+
+작업대 옆에 두고 보는 한 장짜리 요약은 [도색 치트시트](quick-reference.md)에 있습니다. Champions of Chaos 은/세피아 스킴과 Chaos Rhino 메피스톤 레드 스킴을 부위별 3~4줄로 정리했습니다.
+
 ## How to Use
 
 - 처음 시작할 때는 원하는 컬러북의 `README.md` 또는 첫 문서부터 읽으세요.

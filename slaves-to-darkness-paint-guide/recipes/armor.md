@@ -39,7 +39,7 @@ Intermediate. 금속색은 칠하기 쉽지만, **wash 조절**이 어렵습니�
 | Primer | Metal Primer | basecoat 겸용 |
 | Basecoat | Gunmetal | 표면 통일과 보수 |
 | Shade | Game Wash Black | 판 경계와 홈 |
-| Grime | Sepia Wash | 오래된 금속의 때 |
+| Grime | Agrax Earthshade + Seraphim Sepia 1:1 | **전면**에 원액. 황동빛의 정체 |
 | Layer | Chainmail Silver | 판 중앙과 상단 면 |
 | Highlight | Silver | 모서리 |
 | Edge Highlight | Silver + Off White | 헬멧, 어깨 극점 |
@@ -55,7 +55,7 @@ Intermediate. 금속색은 칠하기 쉽지만, **wash 조절**이 어렵습니�
 | Steel Highlight | Silver | Runefang Steel | Bright Silver | Shining Silver | Rivet Silver |
 | Extreme | Silver + Off White | Stormhost Silver | Chrome | Mithril | Silver Sword |
 | Black Wash | Game Wash Black | Nuln Oil | Black Wash | Dark Tone | Oblivion Black Wash |
-| Grime Wash | Sepia Wash | Agrax Earthshade | Streaking Grime | Strong Tone | Battle Grime |
+| Grime Wash | Sepia Wash + Umber Wash | Agrax Earthshade + Seraphim Sepia | Streaking Grime | Strong Tone | Battle Grime |
 
 ## Tools
 
@@ -79,7 +79,8 @@ Intermediate. 금속색은 칠하기 쉽지만, **wash 조절**이 어렵습니�
 1. `Gunmetal`을 프라이머가 얇게 올라간 부분과 보수 부위에 칠해 표면을 통일합니다.
 2. `Game Wash Black`을 **묽게 두 번** 나눠 넣습니다. 판 경계, 리벳 주변, 겨드랑이, 무릎 안쪽에 집중합니다.
 3. 한 번에 진하게 넣지 말고, 마른 뒤 부족한 곳만 다시 넣습니다.
-4. `Sepia Wash`를 홈 **몇 곳에만** 점으로 넣어 따뜻한 때를 만듭니다. 전체에 넣으면 갑옷이 누렇게 뜹니다.
+4. `Agrax Earthshade + Seraphim Sepia`를 1:1로 섞어 **희석 없이 갑옷 전면**에 올립니다. 얼룩이 조금 남아야 오히려 이 느낌이 납니다.
+   이 단계가 스킴의 정체입니다. 색 파츠가 거의 없는데도 전체가 황동빛으로 보이는 이유가 여기 있습니다.
 5. `Chainmail Silver`를 판 중앙과 상단 면에 얇게 올려 갑옷 밝기를 결정합니다. 이 단계에서 처음 대비가 눈에 보입니다.
 6. `Silver`로 어깨, 헬멧, 무릎, 정강이, 방패 상단 모서리를 **선으로** 긋습니다.
 7. `Silver + Off White`를 아주 조금 섞어 헬멧 최상단과 어깨 극점에만 점으로 찍습니다.
@@ -94,7 +95,7 @@ Intermediate. 금속색은 칠하기 쉽지만, **wash 조절**이 어렵습니�
 | Primer | Metal Primer | 밀착과 basecoat |
 | Basecoat | Gunmetal | 균일한 표면 |
 | Shade | Game Wash Black (묽게 2회) | 판 경계와 홈 |
-| Grime | Sepia Wash (점으로) | 오래된 때 |
+| Grime | Agrax + Seraphim Sepia 1:1 (전면 원액) | 황동빛 |
 | Layer | Chainmail Silver | 판 중앙과 상단 |
 | Highlight | Silver | 주요 엣지 |
 | Edge Highlight | Silver + Off White | 제한된 극점 |
@@ -147,7 +148,7 @@ Chaos Lord는 같은 레시피에서 `Silver` 엣지를 한 단계 더 촘촘하
 
 - `Game Wash Black`을 한 번에 진하게 넣어 갑옷이 탁한 회색이 되는 것
 - `Silver`를 면으로 칠해 갑옷이 알루미늄 호일처럼 보이는 것
-- `Sepia Wash`를 전체에 덮어 갑옷이 누렇게 뜨는 것
+- Sepia를 아껴 써서 갑옷이 차가운 은색 그대로 남는 것 — 이 스킴은 **황동빛이 나야** 맞습니다
 - Wash가 마르기 전에 금속 레이어를 올려 얼룩이 생기는 것
 - 무기까지 갑옷과 같은 밝기로 칠해 재질이 구분되지 않는 것
 - 몰드라인을 남긴 채 밝은 금속을 올리는 것
@@ -159,7 +160,8 @@ Chaos Lord는 같은 레시피에서 `Silver` 엣지를 한 단계 더 촘촘하
 | 갑옷이 밋밋하다 | 홈이 얕음 | `Game Wash Black`을 판 경계에 추가 |
 | 갑옷이 탁한 회색이다 | Wash 과다 | `Chainmail Silver` 재레이어 후 묽게 재작업 |
 | 갑옷이 호일 같다 | Silver 면적 과다 | 묽은 Black Wash로 낮추고 엣지만 남김 |
-| 금속이 누렇다 | Sepia 과다 | `Chainmail Silver`로 복구 후 점으로만 재작업 |
+| 금속이 너무 누렇다 | Sepia 과다 | `Chainmail Silver`로 판 중앙만 되살림 |
+| 금속이 차갑고 밋밋하다 | Sepia 부족 | Agrax + Sepia 1:1을 전면에 한 번 더 |
 | Wash에 테두리가 남았다 | 한 번에 진하게 | 해당 면 재레이어 후 묽게 2회 |
 | 갑옷이 회색 플라스틱 같다 | 무광 과다 | Satin Varnish를 금속에만 적용 |
 
@@ -171,7 +173,7 @@ Chaos Lord는 같은 레시피에서 `Silver` 엣지를 한 단계 더 촘촘하
 
 - [ ] 몰드라인을 제거하고 프라이머 표면을 확인했다.
 - [ ] `Game Wash Black`을 묽게 두 번 나눠 넣었다.
-- [ ] `Sepia Wash`는 홈 몇 곳에만 점으로 넣었다.
+- [ ] Agrax + Seraphim Sepia 1:1을 갑옷 전면에 원액으로 올렸다.
 - [ ] `Chainmail Silver`를 판의 위쪽에만 올렸다.
 - [ ] `Silver`는 선과 점으로만 썼다.
 - [ ] 금속은 Satin, 천과 털은 Matt으로 분리 계획했다.

@@ -51,7 +51,7 @@ Beginner to Intermediate. 밝은 갑옷은 **칠하기는 쉽고 망치기도 �
 |---|---|---|
 | Armor Base | Gunmetal | 판금 전체 바탕 |
 | Armor Shade | Black Wash | 홈과 판 경계 |
-| Armor Grime | Sepia Wash | 오래 쓴 금속의 때 |
+| Armor Grime | Agrax + Seraphim Sepia 1:1 | **전면 원액.** 황동빛의 정체 |
 | Armor Layer | Chainmail Silver | 판 중앙과 상단 면 |
 | Armor Highlight | Silver | 모서리 |
 | Armor Extreme | Silver + Off White | 헬멧과 어깨 최상단 |
@@ -95,7 +95,7 @@ Beginner to Intermediate. 밝은 갑옷은 **칠하기는 쉽고 망치기도 �
 ## Step-by-step workflow
 
 1. 갑옷은 `Gunmetal`에서 시작해 **먼저 어둡게** 만든 뒤 밝은 면을 되살립니다.
-2. `Black Wash`는 홈과 판 경계에만, `Sepia Wash`는 오래된 느낌을 원하는 곳에만 넣습니다.
+2. `Agrax + Seraphim Sepia` 1:1을 **갑옷 전면에 원액**으로 올려 황동빛을 만들고, `Black Wash`는 홈과 판 경계에만 넣습니다.
 3. `Chainmail Silver`를 판 중앙과 상단에 올려 갑옷 밝기를 결정합니다.
 4. `Silver`는 모서리에만 긋고, 극점은 헬멧·어깨·무릎 정도로 제한합니다.
 5. 천은 `Charred Brown → Gory Red → Gory Red + Bonewhite`로 어둡고 낮은 채도를 유지합니다.
@@ -108,7 +108,7 @@ Beginner to Intermediate. 밝은 갑옷은 **칠하기는 쉽고 망치기도 �
 | Primer | Metal Primer (또는 Black + 은색 드라이브러시) | basecoat 생략 |
 | Basecoat | Gunmetal | 표면 통일 |
 | Shade | Black Wash | 홈과 판 경계 |
-| Grime | Sepia Wash | 오래된 금속의 때 |
+| Grime | Agrax + Seraphim Sepia 1:1 | 전면 원액 |
 | Layer | Chainmail Silver | 판 중앙과 상단 |
 | Highlight | Silver | 모서리 |
 | Edge Highlight | Silver + Off White | 헬멧, 어깨 |
@@ -155,7 +155,7 @@ Beginner to Intermediate. 밝은 갑옷은 **칠하기는 쉽고 망치기도 �
 
 💡 Pro Tip
 
-강철은 회색이 아닙니다. `Sepia Wash`를 홈 몇 곳에만 넣어 따뜻한 때를 만들면, 같은 은색이 훨씬 진짜 금속처럼 보입니다.
+이 스킴의 황동빛은 금색 도료가 아니라 **은색 위에 두껍게 올린 세피아**에서 나옵니다. 색 파츠가 거의 없는데도 전체가 따뜻하게 보이는 이유입니다.
 
 💡 Pro Tip
 
@@ -176,7 +176,8 @@ Beginner to Intermediate. 밝은 갑옷은 **칠하기는 쉽고 망치기도 �
 | 모델이 뿌옇다 | 어두운 요소 부족 | 털, 가죽, 베이스를 낮춤 |
 | 갑옷이 밋밋하다 | 홈이 얕음 | `Black Wash`를 판 경계에 재작업 |
 | 은색이 회색 같다 | 광택 부족 | Satin 바니시를 금속에만 적용 |
-| 금속이 지저분하다 | Sepia Wash 과다 | `Chainmail Silver` 재레이어 |
+| 금속이 너무 누렇다 | Sepia 과다 | `Chainmail Silver`로 판 중앙만 되살림 |
+| 은색이 차갑고 밋밋하다 | Sepia 부족 | Agrax + Sepia 1:1 전면에 한 번 더 |
 | 천이 튄다 | 채도 과다 | `Charred Brown` 글레이즈로 낮춤 |
 
 ## Dark Gunmetal 변형
